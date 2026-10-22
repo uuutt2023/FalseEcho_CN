@@ -20,6 +20,13 @@ GameMaker（YYC 编译版）把界面与剧情文本以 `base64 + zlib` 烘焙�
 
 ## 二、给玩家的用法（不需要任何环境）
 
+### 下载
+
+从本仓库的 [Releases](https://github.com/uuutt2023/FalseEcho_CN/releases) 下载补丁包
+（`FalseEcho-CN-Patch-v0986.zip`，约 63 MB），解压后按下面三步安装即可。
+
+### 安装
+
 1. 在 Steam 安装并启动过一次游戏；
 2. 把 `patcher/` 整个文件夹复制到**游戏根目录**（即同时含有 `False Echo.exe` 与 `data.win` 的文件夹）；
 3. 双击 `Install-CN.cmd`；
@@ -104,6 +111,14 @@ node scripts\verify_datawin_text.js out\data_cn.win
 - 每日命令封面的抬头行距是按拉丁字高设计的，中文墨迹更高时会略有压叠；
 - 2× 缩放下中文笔画有约 1px 的抗锯齿柔化；
 - 规则手册 / 前线新闻 / 战争日记 / Endless 模式 / 证件页等页面尚未逐屏实机回归。
+
+### Release 与版本对应
+
+| Release Tag | 适配游戏版本 | 补丁包 |
+|---|---|---|
+| `v0.9.8.6-cn1` | False Echo Demo v0.9.8.6 | `FalseEcho-CN-Patch-v0986.zip` |
+
+游戏版本更新后补丁会因指纹校验而拒绝安装，需按 `scripts/migrate_newbuild.js` 的流程迁移后重新发布 Release。
 
 ## 八、致谢
 
