@@ -1,0 +1,181 @@
+txt_do_cover_oppressia	奥普雷西亚
+txt_do_cover_to_victory	必胜！
+txt_do_cover_title_mod	国防部
+txt_do_cover_op_naval_command	奥普雷西亚海军司令部
+txt_do_cover_sub_instr_fmanual	潜艇指令野外手册
+txt_do_cover_egerlin	东格尔林
+txt_do_cover_secret	机密
+txt_do_cover_internal	内部
+txt_do_cover_cnumber	副本编号
+txt_do_cover_imp	重要
+txt_do_cover_property_of	本文件为国防部财产
+txt_do_last_page_bottom	不得转发或传阅 —— 高度机密
+txt_do_cover_enemy_is	敌人在监听！\n敌人在监视！\n敌人在等待！
+txt_do_fp_toc	目录
+txt_do_fp_general_rules	通则
+txt_do_fp_encryption_room	舱室布局
+txt_do_fp_obscura_machine	暗影机
+txt_do_fp_echo_stamper	回响印章机
+txt_do_fp_teletyper	电传打字机
+txt_do_fp_document_types	文件种类
+txt_do_fp_stamps	印章
+txt_do_fp_signatures	签名
+txt_do_fp_approved_senders	许可发报方
+txt_do_fp_daily_orders	每日命令
+txt_do_fp_crew_comp	船员编制
+txt_do_fp_op_to_vic	奥普雷西亚必胜！
+txt_do_fp_pers_notes	个人备注：
+txt_do_last_page_return	文件结束\n国家安全委对你的严谨工作予以嘉奖
+txt_do_di_title	每日命令
+txt_do_di_signature	签名
+txt_do_d1_echostampdevice	回响印章机 七型
+txt_do_d1_echo_openclose	开／关
+txt_do_d1_echo_truefalse	真／伪
+txt_do_d1_echo_stamp	盖章
+txt_do_d1_echo_desc	握住手柄把回响印章机拉出来。\n用真／伪开关切换要盖的印章。\n压下手柄给纸张盖章。
+txt_do_d1_senderidexp	确保发报方代号被解密为 SUBHUNT。在暗影机开机、输出纸已就位时输入发报方代号文本。
+txt_do_gen_tosub227	致 227 号潜艇
+txt_do_gen_tocrypto	致密码军官：
+txt_do_gen_page	第
+txt_do_g_stamp_verif	- 盖核验电文：
+txt_do_g_stamp_inp	- 盖原始电文：
+txt_do_g_stamp_outp	- 盖输出电文：
+txt_do_g_side_any	任意一面。
+txt_do_g_side_front	正面。
+txt_do_g_side_back	背面。
+txt_do_g_stamper_echo	回响章。
+txt_do_g_stamper_red	红章。
+txt_do_g_stamper_blue	蓝章。
+txt_do_g_stamper_rank	军官用红章，水兵用蓝章。
+txt_do_g_senderid_gen	- 必需的发报方代号：
+txt_do_g_senderid_subhunt	SUBHUNT。
+txt_do_g_senderid_ironwit	IRONWIT。
+txt_do_g_senderid_meeting	MEETING。
+txt_do_g_senderid_buzzers	BUZZERS。
+txt_do_g_senderid_torpedo	TORPEDO。
+txt_do_g_date_gen	- 日期必须是：
+txt_do_g_date_actual	当天
+txt_do_g_late_navalhq	若发报方为海军总部，则可为迟发。
+txt_do_g_late_propmin	若发报方为澄清部，则可为迟发。
+txt_do_g_late_stasec	若发报方为国家安全委总部，则可为迟发。
+txt_do_g_late_counterint	若发报方为反情报局，则可为迟发。
+txt_do_g_rotors_gen	- 转子设置：
+txt_do_g_rotors_comb1	AFG
+txt_do_g_rotors_comb2	AAG
+txt_do_g_rotors_comb3	BEG
+txt_do_g_rotors_comb4	RTR
+txt_do_g_rotors_comb5	MAC
+txt_do_g_rotors_comb6	KIL
+txt_do_g_rotors_comb7	BOB
+txt_do_g_cable_gen	- 接线设置：
+txt_do_g_cable_comb1	AG
+txt_do_g_cable_comb2	BF
+txt_do_g_cable_comb3	GI
+txt_do_g_cable_comb4	ACDE
+txt_do_g_cable_comb5	BECG
+txt_do_g_cable_comb6	ACBH
+txt_do_g_cable_comb7	AGBI
+txt_do_g_cable_comb8	BCDH
+txt_do_g_cable_comb9	ACDFGI
+txt_do_g_cable_comb10	AHCEGI
+txt_do_g_cable_comb11	ABCEFI
+txt_do_g_cable_comb12	ADEFGI
+txt_do_g_sign_gen	- 需要签名：
+txt_do_g_sign_cptn	舰长。
+txt_do_g_sign_xo	执行官。
+txt_do_g_sign_po	政治委员。
+txt_do_g_paper_hand	- 提交：
+txt_do_g_paper_archive	- 提交：
+txt_do_g_paper_destroy	- 销毁：
+txt_do_g_cond_true	若为真回响。
+txt_do_g_cond_false	若为伪回响。
+txt_do_g_cond_stamp	若已盖章。
+txt_do_g_paper_ver	核验电文
+txt_do_g_paper_inp	原始电文
+txt_do_g_paper_outp	输出电文
+txt_do_g_paper_private	密电
+txt_do_g_appr_gen	- 批准码：
+txt_do_g_appr_c1	CITADEL。
+txt_do_g_appr_c2	HUNTER。
+txt_do_g_appr_c3	VICTORY。
+txt_do_g_appr_c4	SANITY。
+txt_do_g_appr_c5	DESTROYER。
+txt_do_g_appr_c6	REVENGE。
+txt_do_nofurthersettings	不再有其他设置或规则。
+txt_do_continuenextp	接下页继续
+txt_do_d1_p1_01	密码军官，\n根据标准海军条例，现特此通知你必须逐字逐条遵守以下规则。\n{red}本日通则：{/red}
+txt_do_d2_p1_01	密码军官，\n国家安全部门警告：敌方正试图渗透我方收到的通信。请立即遵守以下规则：
+txt_do_d3_p1_01	密码军官，\n为确保完全透明，你必须在核验电文上附上解密证明。\n{red}本日通则：{/red}
+txt_do_d1_obscura	暗影机 三型
+txt_do_d1_obscura_power	电源开关
+txt_do_d1_obscura_keyboard	键盘
+txt_do_d1_obscura_desc	握住手柄把暗影机拉出来。\n用电源开关开机。\n在键盘上敲击字母和数字，对电文进行解密或加密。
+txt_do_di_obm_rotor_operations	暗影机转子操作：\n1. 打开顶部转子盖板。操作前请确认电源开关处于关闭状态。\n2. 从支架上取下转子头。\n3. 手动旋转转子头，直到红色销钉对准你需要的组合。\n4. 把转子头放回支架机构，并合上转子盖板。
+txt_do_di_est_title	回响印章机
+txt_do_di_est_b1_stamp_handle	印章手柄
+txt_do_di_est_b1_pull_handle	拉手柄
+txt_do_di_est_b1_true_false_switch	真／伪开关
+txt_do_di_est_b1_text	拉动拉手柄把印章机拉出。拨好真／伪开关。压下印章手柄盖上所选印章。
+txt_do_di_est_operating_parts	回响印章机 七型操作部件：\n1. 拉手柄：拉动手柄可把回响印章机拉到桌面上方，或将其推回原位。\n2. 真／伪开关：拨动它选择所需的盖章方式。\n3. 指示灯：灯光常亮表示印章机已就绪。\n4. 盖章手柄：向下压以执行盖章操作。\n警告：回响墨水极浓，无法洗去。
+txt_do_di_tt_title	电传打字机
+txt_do_di_tt_left_text	电传打字机是我们安全保密的通信设备，用于收发加密电文。请小心使用。每台电传打字机都是独一无二的。遗失或损坏电传打字机适用刑律。
+txt_do_di_tt_main_parts	电传打字机 五型主要部件：\n1. 来电指示灯：有电文到达时闪红光。\n2. 拉手柄：用于打开和关闭设备。\n3. 发起按钮：用于发送／接收电文。\n4. 模式选择器：选择发送或接收电文。\n5. 键盘手柄。\n6. 锁：安全锁，防止未经授权的使用。\n7. 模式指示灯。\n8. 原始电文槽：打开并放入待发送的电文。\n9. 出纸槽：收到的电文会自动在这里打印出来。
+txt_do_di_tt_front_label	电传打字机单元
+txt_do_di_tt_front_text	图片占位。本页将讲解电传打字机及其接收电文的方式。
+txt_do_di_tt_back_label	电传打字机走纸路径
+txt_do_di_tt_back_text	图片占位。本页将讲解读纸顺序与操作方法。
+txt_do_di_dt_title	文件种类
+txt_do_di_input_message_desc	加密电文：你要用暗影机加密的明文电文。需要盖回响章。
+txt_do_di_tpt_message_desc	解密电文：通过电传打字机收到的加密文本电文。用暗影机解密。需要盖回响章。
+txt_do_di_verification_message_desc	核验电文：来自电传打字机的复杂编码核验条，含多个校验点。需要盖回响章。
+txt_do_di_verification_output_slip_desc	核验输出条：用于从核验电文中记录解密出的发报方代号。
+txt_do_di_encoding_output_desc	加密输出：已加密、可供进一步使用或发送的文本电文。需要普通印章和签名。
+txt_do_di_output_message_desc	解密输出纸：用于解密电传打字机收到的电文。需要普通印章和签名。
+txt_do_di_citation_desc	工作训诫书：由上级就错误和过失签发。
+txt_do_di_other_documents_desc	其他文件：多种文件类型，通常需要签名。
+txt_do_di_private_message_desc	密电／便条：由其他船员交给你的。请小心处理，纸张上承载的东西往往远不止字面意思。
+txt_do_di_stamps_title	印章
+txt_do_di_stamps_echo_desc	真回响与伪回响：真表示电文属实／已获批准。红表示电文为伪／未获批准。使用回响印章机盖出。
+txt_do_di_stamps_regular_desc	普通印章：用于加盖在交还其他船员的电文上。用途由每日命令规定。
+txt_do_di_stamps_captain_desc	舰长印章：来自舰长的授权。
+txt_do_di_stamps_po_desc	政治委员印章：来自政治委员的授权。
+txt_do_di_stamps_officer_desc	军官印章：来自其他军官的授权。
+txt_do_di_signatures_title	签名
+txt_do_di_sign_captain	舰长签名
+txt_do_di_sign_po	政治委员签名
+txt_do_di_sign_xo	执行官签名
+txt_do_di_signatures_reminder	务必核对签名！
+txt_do_di_approved_senders_title	许可发报方
+txt_do_di_approved_senders_intro	以下是许可发报方名单。他们有权向公海上的任何潜艇发送电文：
+txt_do_di_dt_verification_message_name	核验电文
+txt_do_di_dt_verification_message_desc	标准电文表格，含身份、航路、日期和认证字段。
+txt_do_di_dt_input_paper_name	原始电文
+txt_do_di_dt_input_paper_desc	送入暗影机进行加密或解密的原始文本。
+txt_do_di_dt_verification_slip_name	核验条
+txt_do_di_dt_verification_slip_desc	用于记录解密后核验字段的小输出条。
+txt_do_di_dt_output_paper_name	输出电文
+txt_do_di_dt_output_paper_desc	用于承接完成加密或解密后的电文的空白纸。
+txt_do_di_dt_teletyper_message_name	电传打字机电文
+txt_do_di_dt_teletyper_message_desc	任务中由电传打印送达的来电。
+txt_do_di_dt_citation_name	训诫书
+txt_do_di_dt_citation_desc	记录违规或纪律处分的正式通知。
+txt_do_di_dt_statement_name	声明书
+txt_do_di_dt_statement_desc	可能需要签名和提交的书面临声明。
+txt_do_di_dt_receipt_name	回执
+txt_do_di_dt_receipt_desc	证明某件物品、文件或电文已经易手的凭据。
+txt_do_di_dt_private_message_name	密电
+txt_do_di_dt_private_message_desc	必须按其载明要求处理的私人通信。
+txt_do_di_om_title	暗影机手册
+txt_do_di_om_b1_title	总则
+txt_do_di_om_b1_text	暗影机是我们最先进的密码机。世界上没有任何国家拥有这样的设备。它几乎可以说是不可能被破解的。\n只要设置准确且同步，它可以加密和解密任何格式正确的电文。\n但为确保正确使用，操作者必须遵守以下简单而必要的规则与指示
+txt_do_di_om_b2_title	初始化
+txt_do_di_om_b2_text01	要使用暗影机，必须拉动相应的拉杆，把暗影机从收纳位拉出。
+txt_do_di_om_b2_text02	拉出之后，用旋钮将暗影机开机。
+txt_do_di_om_b2_text03	这样暗影机就可以使用了。收纳前别忘了关机。
+txt_do_di_om_b3_title	转子设置
+txt_do_di_om_b3_text01	转子是暗影机极其重要的部件。共有三个转子，每个转子有 26 个字母。
+txt_do_di_om_b3_text02	你需要在暗影机顶部面板上点击，把转子拉出来。
+txt_do_di_om_b3_text03	然后逐个点击转子，直到红色刻口处显示正确的字母。
+txt_do_di_om_b4_title	接线设置
+txt_do_di_om_b4_text01	要设置暗影机的接线，需要把暗影机向上拉起，露出接线盘。
+txt_do_di_om_b4_text02	你需要点击要连接的插孔位置。字母会亮起灯光。

@@ -1,0 +1,101 @@
+# ===========================================================================
+#  FalseEcho_CN —— 《虚妄回响 / False Echo》简体中文本地化补丁
+#  .gitignore：排除游戏本体文件、第三方二进制、本地中间产物与任何本地隐私数据
+#  原则：仓库只保留「本项目自己的成果」（译文、字形、补丁脚本、构建工具源码），
+#        不包含任何游戏原始资源/反编译源码/存档/第三方可执行文件。
+# ===========================================================================
+
+# ---- 游戏本体与原版备份（版权归开发者，禁止分发）----
+backup_original/
+backup_newbuild/
+backup_prebreak/
+backup_cn8/
+backup_cn9/
+backup_*/
+
+# ---- 构建产物（体积大且含修改后的游戏文件）----
+out/
+roundtrip/
+test_player/
+test_player2/
+test_player3/
+test_player4/
+test_pristine/
+
+# ---- 从游戏里提取的原始内容（版权）----
+extracted/
+newbuild/
+decoded/
+loc/
+umtdump/
+diskloc_backup/
+gml/
+pages/
+shots/
+drv/
+
+# ---- 第三方二进制（体积 / 许可；见 patcher/tools/README.md）----
+tools/
+patcher/tools/utmt/
+**/bin/
+**/obj/
+
+# ---- 字体素材（系统字体与第三方字库不随仓库分发；成品图集在 fontout_cn6/）----
+fonts/
+fontout/
+fontout_ark10/
+fontout_ark12/
+fontout_ark16/
+fontout_cn4/
+fontout_cn5/
+fontout_cn6b/
+fontout_diag/
+fontout_fix/
+fontout_heiaa/
+fontout_mix/
+fontout_probe/
+fontout_test8/
+
+# ---- trans/ 下的分析用转储（体积大、可再生成）----
+trans/pool_damage.json
+trans/pool_display.tsv
+trans/pool_display.txt
+trans/merged_all.tsv
+trans/table_values.txt
+trans/table_keys.txt
+trans/exe_literals_game.tsv
+trans/blocks1.txt
+trans/blocks2.txt
+trans/owner_stat.txt
+trans/exe_work.tsv
+trans/exe_work_extra.tsv
+trans/literal_map_review.tsv
+trans/literals_193.tsv
+trans/literal_build.txt
+trans/missing_key_refs.json
+trans/missing_chars.txt
+trans/overrun_literals.json
+
+# ---- 根目录下的分析转储（体积大、含游戏原文，可再生成）----
+/strings_raw.txt
+/candidates.txt
+/game_text.txt
+/to_translate.txt
+/prose.txt
+/code_strings.txt
+/tmp_owner.txt
+/tmp_step.txt
+/mission_dump.txt
+/page_space.txt
+/fonts_cn.json
+
+# ---- 本地杂项 ----
+*.log
+*.tmp
+*.bak
+*.bak_*
+apply/blobs.json.bak_before_nl
+!patcher/payload/*.json
+Thumbs.db
+.DS_Store
+desktop.ini

@@ -1,0 +1,150 @@
+=== FONTS ===
+NAME=__cle_fntDebugUI | DISPLAY=Franklin Gothic Medium | EmSize=12 | Bold=False | Italic=False | Range=32-9647 | AA=1 | Charset=0 | Glyphs=96 | Scale=1/1 | Ascender=14 | LineHeight=18 | AscOff=0 | SDF=0
+    TPI name=PageItem 203 src=(646,966) srcWH=(256x128) target=(0,0) targetWH=(256x128) bound=(256x128) page=Texture 2 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(4x18) shift=4 offset=0 kern=0
+      GLYPH U+0021 '!' src=(140,42) size=(3x18) shift=4 offset=1 kern=0
+      GLYPH U+0022 '"' src=(132,42) size=(6x18) shift=6 offset=0 kern=0
+      GLYPH U+0023 '#' src=(121,42) size=(9x18) shift=9 offset=0 kern=0
+      GLYPH U+0024 '$' src=(110,42) size=(9x18) shift=9 offset=0 kern=0
+      GLYPH U+0025 '%' src=(96,42) size=(12x18) shift=12 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=__ppf_fntDebugUI | DISPLAY=Franklin Gothic Medium | EmSize=12 | Bold=False | Italic=False | Range=32-9647 | AA=1 | Charset=0 | Glyphs=96 | Scale=1/1 | Ascender=14 | LineHeight=18 | AscOff=0 | SDF=0
+    TPI name=PageItem 204 src=(646,966) srcWH=(256x128) target=(0,0) targetWH=(256x128) bound=(256x128) page=Texture 2 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(4x18) shift=4 offset=0 kern=0
+      GLYPH U+0021 '!' src=(140,42) size=(3x18) shift=4 offset=1 kern=0
+      GLYPH U+0022 '"' src=(132,42) size=(6x18) shift=6 offset=0 kern=0
+      GLYPH U+0023 '#' src=(121,42) size=(9x18) shift=9 offset=0 kern=0
+      GLYPH U+0024 '$' src=(110,42) size=(9x18) shift=9 offset=0 kern=0
+      GLYPH U+0025 '%' src=(96,42) size=(12x18) shift=12 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_ContentExtended | DISPLAY=Content Extended | EmSize=11 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=398 | Scale=1/1 | Ascender=7 | LineHeight=9 | AscOff=3 | SDF=0
+    TPI name=PageItem 102 src=(672,262) srcWH=(256x256) target=(0,0) targetWH=(256x256) bound=(256x256) page=Texture 6 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(2x12) shift=2 offset=0 kern=0
+      GLYPH U+0021 '!' src=(6,2) size=(1x12) shift=2 offset=0 kern=0
+      GLYPH U+0022 '"' src=(9,2) size=(3x12) shift=4 offset=0 kern=0
+      GLYPH U+0023 '#' src=(14,2) size=(8x12) shift=9 offset=0 kern=0
+      GLYPH U+0024 '$' src=(24,2) size=(5x12) shift=6 offset=0 kern=0
+      GLYPH U+0025 '%' src=(31,2) size=(7x12) shift=8 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_ContentText | DISPLAY=Monaco | EmSize=11 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=96 | Scale=1/1 | Ascender=7 | LineHeight=9 | AscOff=3 | SDF=0
+    TPI name=PageItem 283 src=(1842,285) srcWH=(128x128) target=(0,0) targetWH=(128x128) bound=(128x128) page=Texture 8 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(2x12) shift=2 offset=0 kern=0
+      GLYPH U+0021 '!' src=(49,44) size=(1x12) shift=2 offset=0 kern=0
+      GLYPH U+0022 '"' src=(44,44) size=(3x12) shift=4 offset=0 kern=0
+      GLYPH U+0023 '#' src=(34,44) size=(8x12) shift=9 offset=0 kern=0
+      GLYPH U+0024 '$' src=(27,44) size=(5x12) shift=6 offset=0 kern=0
+      GLYPH U+0025 '%' src=(18,44) size=(7x12) shift=8 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=    ERR: Object reference not set to an instance of an object.
+NAME=fnt_DO_text | DISPLAY=fntDOSmall | EmSize=12 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=78 | Scale=1/1 | Ascender=12 | LineHeight=14 | AscOff=0 | SDF=0
+    TPI name=PageItem 284 src=(1842,417) srcWH=(128x128) target=(0,0) targetWH=(128x128) bound=(128x128) page=Texture 8 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(5x14) shift=5 offset=0 kern=0
+      GLYPH U+0021 '!' src=(65,34) size=(1x14) shift=2 offset=0 kern=0
+      GLYPH U+0022 '"' src=(59,34) size=(4x14) shift=5 offset=0 kern=0
+      GLYPH U+0027 ''' src=(55,34) size=(2x14) shift=3 offset=0 kern=0
+      GLYPH U+002B '+' src=(50,34) size=(3x14) shift=4 offset=0 kern=0
+      GLYPH U+002C ',' src=(46,34) size=(2x14) shift=3 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_EchoMessageNarrow | DISPLAY=fntEchoMnarrow | EmSize=12 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=49 | Scale=1/1 | Ascender=12 | LineHeight=13 | AscOff=0 | SDF=0
+    TPI name=PageItem 424 src=(300,717) srcWH=(128x64) target=(0,0) targetWH=(128x64) bound=(128x64) page=Texture 9 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(3x14) shift=3 offset=0 kern=0
+      GLYPH U+0021 '!' src=(20,18) size=(1x14) shift=2 offset=0 kern=0
+      GLYPH U+0022 '"' src=(23,18) size=(4x14) shift=5 offset=0 kern=0
+      GLYPH U+002C ',' src=(29,18) size=(2x14) shift=3 offset=0 kern=0
+      GLYPH U+002D '-' src=(33,18) size=(3x14) shift=4 offset=0 kern=0
+      GLYPH U+002E '.' src=(38,18) size=(1x14) shift=2 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_FE_machine | DISPLAY=fontEchoMessage | EmSize=12 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=38 | Scale=1/1 | Ascender=12 | LineHeight=12 | AscOff=0 | SDF=0
+    TPI name=PageItem 425 src=(300,785) srcWH=(128x64) target=(0,0) targetWH=(128x64) bound=(128x64) page=Texture 9 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(7x14) shift=7 offset=0 kern=0
+      GLYPH U+0030 '0' src=(65,18) size=(7x14) shift=7 offset=0 kern=0
+      GLYPH U+0031 '1' src=(74,18) size=(7x14) shift=7 offset=0 kern=0
+      GLYPH U+0032 '2' src=(83,18) size=(7x14) shift=7 offset=0 kern=0
+      GLYPH U+0033 '3' src=(92,18) size=(7x14) shift=7 offset=0 kern=0
+      GLYPH U+0034 '4' src=(101,18) size=(7x14) shift=7 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=    ERR: Object reference not set to an instance of an object.
+NAME=fnt_InputMessage | DISPLAY=fontcontenttext | EmSize=12 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=94 | Scale=1/1 | Ascender=12 | LineHeight=14 | AscOff=0 | SDF=0
+    TPI name=PageItem 285 src=(1259,544) srcWH=(128x128) target=(0,0) targetWH=(128x128) bound=(128x128) page=Texture 8 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(3x14) shift=3 offset=0 kern=0
+      GLYPH U+0021 '!' src=(55,50) size=(1x14) shift=2 offset=0 kern=0
+      GLYPH U+0022 '"' src=(50,50) size=(3x14) shift=4 offset=0 kern=0
+      GLYPH U+0023 '#' src=(39,50) size=(9x14) shift=10 offset=0 kern=0
+      GLYPH U+0024 '$' src=(32,50) size=(5x14) shift=6 offset=0 kern=0
+      GLYPH U+0025 '%' src=(22,50) size=(8x14) shift=9 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_japanese | DISPLAY=DotGothic16 | EmSize=11 | Bold=False | Italic=False | Range=32-12539 | AA=0 | Charset=0 | Glyphs=106 | Scale=1/1 | Ascender=16 | LineHeight=21 | AscOff=0 | SDF=0
+    TPI name=PageItem 205 src=(1771,1905) srcWH=(256x128) target=(0,0) targetWH=(256x128) bound=(256x128) page=Texture 6 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(7x21) shift=7 offset=0 kern=0
+      GLYPH U+0021 '!' src=(105,48) size=(1x21) shift=7 offset=3 kern=0
+      GLYPH U+0022 '"' src=(100,48) size=(3x21) shift=7 offset=2 kern=0
+      GLYPH U+0023 '#' src=(92,48) size=(6x21) shift=8 offset=1 kern=0
+      GLYPH U+0024 '$' src=(83,48) size=(7x21) shift=8 offset=1 kern=0
+      GLYPH U+0025 '%' src=(74,48) size=(7x21) shift=8 offset=1 kern=0
+      charRange=U+0020..U+30FB
+NAME=fnt_textbody | DISPLAY=Monaco | EmSize=24 | Bold=True | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=94 | Scale=1/1 | Ascender=16 | LineHeight=20 | AscOff=6 | SDF=0
+    TPI name=PageItem 103 src=(932,522) srcWH=(256x256) target=(0,0) targetWH=(256x256) bound=(256x256) page=Texture 6 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(4x26) shift=4 offset=0 kern=0
+      GLYPH U+0021 '!' src=(216,58) size=(2x26) shift=4 offset=0 kern=0
+      GLYPH U+0022 '"' src=(208,58) size=(6x26) shift=8 offset=0 kern=0
+      GLYPH U+0023 '#' src=(188,58) size=(18x26) shift=20 offset=0 kern=0
+      GLYPH U+0024 '$' src=(176,58) size=(10x26) shift=12 offset=0 kern=0
+      GLYPH U+0025 '%' src=(158,58) size=(16x26) shift=18 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_TitleText | DISPLAY=Monaco | EmSize=18 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=94 | Scale=1/1 | Ascender=12 | LineHeight=15 | AscOff=5 | SDF=0
+    TPI name=PageItem 206 src=(1112,412) srcWH=(256x128) target=(0,0) targetWH=(256x128) bound=(256x128) page=Texture 8 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(3x20) shift=3 offset=0 kern=0
+      GLYPH U+0021 '!' src=(92,46) size=(2x20) shift=3 offset=0 kern=0
+      GLYPH U+0022 '"' src=(85,46) size=(5x20) shift=6 offset=0 kern=0
+      GLYPH U+0023 '#' src=(69,46) size=(14x20) shift=15 offset=0 kern=0
+      GLYPH U+0024 '$' src=(59,46) size=(8x20) shift=9 offset=0 kern=0
+      GLYPH U+0025 '%' src=(45,46) size=(12x20) shift=13 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=fnt_WrittenText | DISPLAY=fntHandwritting | EmSize=24 | Bold=False | Italic=False | Range=32-122 | AA=0 | Charset=0 | Glyphs=70 | Scale=1/1 | Ascender=26 | LineHeight=34 | AscOff=0 | SDF=0
+    TPI name=PageItem 104 src=(672,522) srcWH=(256x256) target=(0,0) targetWH=(256x256) bound=(256x256) page=Texture 6 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(6x34) shift=6 offset=0 kern=0
+      GLYPH U+0021 '!' src=(162,74) size=(2x34) shift=8 offset=4 kern=0
+      GLYPH U+0027 ''' src=(156,74) size=(4x34) shift=6 offset=0 kern=0
+      GLYPH U+002C ',' src=(150,74) size=(4x34) shift=6 offset=0 kern=0
+      GLYPH U+002E '.' src=(146,74) size=(2x34) shift=4 offset=0 kern=0
+      GLYPH U+0030 '0' src=(126,74) size=(18x34) shift=20 offset=0 kern=0
+      charRange=U+0020..U+007A
+NAME=Standard_Pixel_Font | DISPLAY=Monaco | EmSize=24 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=94 | Scale=1/1 | Ascender=16 | LineHeight=20 | AscOff=6 | SDF=0
+    TPI name=PageItem 107 src=(932,522) srcWH=(256x256) target=(0,0) targetWH=(256x256) bound=(256x256) page=Texture 6 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(4x26) shift=4 offset=0 kern=0
+      GLYPH U+0021 '!' src=(216,58) size=(2x26) shift=4 offset=0 kern=0
+      GLYPH U+0022 '"' src=(208,58) size=(6x26) shift=8 offset=0 kern=0
+      GLYPH U+0023 '#' src=(188,58) size=(18x26) shift=20 offset=0 kern=0
+      GLYPH U+0024 '$' src=(176,58) size=(10x26) shift=12 offset=0 kern=0
+      GLYPH U+0025 '%' src=(158,58) size=(16x26) shift=18 offset=0 kern=0
+      charRange=U+0020..U+25AF
+NAME=VT323 | DISPLAY=VT323 | EmSize=24 | Bold=False | Italic=False | Range=32-9647 | AA=0 | Charset=0 | Glyphs=96 | Scale=1/1 | Ascender=25 | LineHeight=32 | AscOff=0 | SDF=0
+    TPI name=PageItem 108 src=(1192,2) srcWH=(256x256) target=(0,0) targetWH=(256x256) bound=(256x256) page=Texture 6 pageWH=2048x2048
+      GLYPH U+0020 ' ' src=(2,2) size=(13x32) shift=13 offset=0 kern=0
+      GLYPH U+0021 '!' src=(38,104) size=(3x32) shift=13 offset=5 kern=0
+      GLYPH U+0022 '"' src=(28,104) size=(8x32) shift=13 offset=2 kern=0
+      GLYPH U+0023 '#' src=(15,104) size=(11x32) shift=13 offset=1 kern=0
+      GLYPH U+0024 '$' src=(2,104) size=(11x32) shift=13 offset=1 kern=0
+      GLYPH U+0025 '%' src=(240,70) size=(11x32) shift=13 offset=1 kern=0
+      charRange=U+0020..U+25AF
+
+=== TEXTURE PAGES ===
+PAGE 'Texture 0' w=64 h=64 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 1' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 2' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 3' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 4' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 5' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 6' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 7' w=256 h=256 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 8' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 9' w=2048 h=2048 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 10' w=1 h=1 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 11' w=1 h=1 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 12' w=1 h=1 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 13' w=1 h=1 fmt=Bz2Qoi external=False scaled=0
+PAGE 'Texture 14' w=512 h=512 fmt=Bz2Qoi external=True scaled=1
+PAGE 'Texture 15' w=512 h=1024 fmt=Png external=False scaled=1
+PAGE 'Texture 16' w=512 h=128 fmt=Png external=False scaled=1
+PAGE 'Texture 17' w=256 h=64 fmt=Png external=False scaled=1
+PAGE 'Texture 18' w=512 h=512 fmt=Bz2Qoi external=False scaled=1

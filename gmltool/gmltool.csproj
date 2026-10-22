@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AssemblyName>gmltool</AssemblyName>
+    <RootNamespace>gmltool</RootNamespace>
+    <InvariantGlobalization>false</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UndertaleModLib">
+      <HintPath>E:\FalseEcho_CN\tools\utmt\UndertaleModLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Underanalyzer">
+      <HintPath>E:\FalseEcho_CN\tools\utmt\Underanalyzer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

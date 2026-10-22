@@ -1,0 +1,128 @@
+txt_ui_gen_taskFailed	任务失败
+txt_ui_gen_missionFailed	任务失败
+txt_ui_gen_taskReceived	收到任务
+txt_ui_gen_verificationCompleted	核验完成
+txt_ui_gen_yes	是
+txt_ui_intro_01	1943年10月27日，法国洛里昂
+txt_ui_name_input	水兵，你叫什么名字？
+txt_ui_name_enter	输入你的名字
+txt_ui_name_accept	确定
+txt_ui_name_cancel	取消
+txt_id_heading	国家安全委\n个人证
+txt_id_name	姓名
+txt_id_born	出生：
+txt_id_birth_date	1907年11月15日
+txt_id_place	出生地：
+txt_id_birth_place	莱廷根
+txt_id_father	父亲
+txt_id_mother	母亲
+txt_id_member	ODNEP 成员：
+txt_id_blood_type	血型：
+txt_id_posting	现任职：
+txt_id_posting_value	中尉，特别\n安全军官\n227 号潜艇
+txt_id_awards	荣誉：
+txt_ui_mm_btn_continue	继续
+txt_ui_mm_btn_newgame	新游戏
+txt_ui_mm_btn_story	剧情
+txt_ui_mm_btn_endless	无尽
+txt_ui_mm_btn_easy	简单
+txt_ui_mm_btn_medium	普通
+txt_ui_mm_btn_hard	困难
+txt_ui_gen_back	返回
+txt_ui_mm_btn_options	选项
+txt_ui_mm_btn_quit	退出
+txt_ui_mm_quitmessage	确定要退出游戏吗？
+txt_ui_holdtoskip	按住空格跳过
+txt_ui_holdtoskiptutorial	按住空格跳过教程
+txt_ui_anykeytocontinue	按任意键继续
+txt_mm_press_any_key_start	按任意键开始
+txt_ui_anykeytocomplete	按任意键继续
+day_01_txt_map_ev_04a_bubble_01_01	你。去密码舱，在那儿等我。
+day_01_txt_map_ev_04a_bubble_01_02	长官，出什么事了，方便问一下吗？
+day_01_txt_map_ev_04a_bubble_01_03	我会告诉你该知道的。现在过去。
+day_01_txt_map_ev_04a_bubble_01_04	那是……
+day_01_txt_map_ev_04a_bubble_01_05	嘘。走。
+day_01_txt_dia_po_clean_intro_01	终于有幸见到国家安全委 cadre 中的奥普雷西亚新星。
+day_01_txt_dia_po_clean_intro_02	我得承认，我更希望在别的场合见到你，但也没办法，仗还在打。
+day_01_txt_dia_po_clean_intro_03	是长官，我得承认我没想到自己真的会坐潜艇下潜。
+day_01_txt_dia_po_clean_intro_04	别担心，你会习惯的，这没什么大不了的。只是第一次有点难。
+day_01_txt_dia_po_clean_intro_05	长官，您这是什么意思？我的命令是接上密码军官，一路护送他回拉杜谢勒。我没料到自己会在潜艇上待很久。
+day_01_txt_dia_po_clean_intro_06	告诉我一件事，孩子，你相信命运吗？
+day_01_txt_dia_po_clean_intro_07	我……我……我不明白您的意思，长官？
+day_01_txt_dia_po_clean_intro_08	凡事都有其时其地。我相信正是命运让那架敌机在你们正要登艇时来袭击我们。
+day_01_txt_dia_po_clean_intro_09	而且时机再合适不过了：过去几个小时里，事情已经变了。
+day_01_txt_dia_po_clean_intro_10	你手上那套命令已经作废了。你不去接密码军官了。
+day_01_txt_dia_po_clean_intro_11	长官，布劳尔德上校命令我去接他并安全押送，接受长期审讯……长官。
+day_01_txt_dia_po_clean_intro_12	恐怕我们的密码军官出了点……意外。他已经不适合继续承担全部职责。这下空出了位子。我提醒你，这个位子在安全权限上属于国家安全委级别。
+day_01_txt_dia_po_clean_intro_13	可是长官……桌上这摊血迹？
+day_01_txt_dia_po_clean_intro_14	血迹？什么血迹？
+day_01_txt_dia_po_clean_intro_15	哦。那摊血迹。对呀。真是不幸的转折。
+day_01_txt_dia_po_clean_intro_16	在这儿等着。我马上回来。
+day_01_txt_dia_po_bucket_monologue_01	希望他们不会指控我故意弄伤自己。
+day_01_txt_dia_po_clean_bucket_01	我提了一桶水。把那摊东西彻底擦干净。
+day_01_txt_dia_po_clean_bucket_02	长官，这里发生了什么，方便问一下吗？
+day_01_txt_dia_po_clean_bucket_03	一场不幸的意外。犯错难免，重复犯错可是自己的选择。不过现在幸好有你。把这个房间收拾干净，你才能好好接任你的职责。
+day_01_txt_dia_bucket_04	幸好有你。现在把这个房间收拾干净，你才能好好接任你的职责。
+day_01_txt_dia_po_clean_bucket_04	是，长官。
+day_01_txt_mono_po_bucket_monologue_01	希望他们不会指控我故意弄伤自己。
+day_01_txt_dia_statement_intro_01	很好。你明白有时候我们干净的手必须弄脏，才能让我们的国家保持干净。
+day_01_txt_dia_statement_02	但你也明白，有时候一个人必须把手弄脏，才能帮国家保持干净。
+day_01_txt_dia_statement_intro_02	是，长官。这个制度会保护那些维护它干净的人。
+day_01_txt_dia_statement_04	正是我想的。你很会读心。
+day_01_txt_dia_statement_05	长官，我只是……
+day_01_txt_dia_statement_intro_03	开玩笑的。放轻松。哦，在我走之前……有份声明要你签。
+day_01_txt_dia_statement_07	能请你在这份声明书上签个字吗？
+day_01_txt_dia_statement_intro_04	长官？声明？
+day_01_txt_dia_statement_intro_05	没什么特别的。就是常规流程。来，你看看。
+day_01_txt_dia_statement_complete_01	很好。我就知道能指望你。
+day_01_txt_dia_statement_complete_02	总部满足了我把你留到回港的愿望，我真是太高兴了。
+day_01_txt_dia_statement_complete_03	我不知道该说什么，长官……
+day_01_txt_dia_statement_complete_04	什么都别说。享受你的新职位吧。加薪也会有的。
+day_01_txt_dia_statement_complete_05	恐怕不多。每月大约 200 奥普帕克。
+day_01_txt_dia_statement_complete_06	谢谢您，长官。
+day_01_txt_dia_statement_complete_07	那我先走了。好好干。
+txt_msg_private_d01_sailor11_kobi	潜艇风平浪静的时候，谁也不会去砸开自己的脑袋。
+txt_roster_cover_title	船员名册
+txt_roster_cover_sub	227 号潜艇
+txt_roster_rank_captain	舰长
+txt_roster_scroll_mode	向下滚动阅读更多
+txt_roster_serial_captain	19402781
+txt_roster_birth_captain	1897年10月17日
+txt_roster_place_captain	东格尔林
+txt_roster_bio_captain	库尔特·魏斯曼出身于老牌的魏斯曼家族，是魏斯曼伯爵的第四子。他很早就考入海军 cadets，并以班级第一名毕业于海军学校。他没有参加上一场战争，而是以纪律、多语言能力和谨慎的操船技术建立起声望。\n他娶了比勒特将军的女儿，育有四个孩子。长子正在东线服役，次女是一名护士，两个最小的孩子随母亲生活。\n他的弟弟是一艘护航巡洋舰的舰长，已失踪两年。\n自 1939 年以来，魏斯曼在数艘潜艇上服役过，其中包括著名的 96 号潜艇。船员们形容他体贴、温和，对部下照看有加。若干报告提到他曾与政见可疑人士会面。\n他常年为肾病所困扰，因此有人建议他提前转入预备役并岸上服役，但他主动申请继续在海上服役。\n掌握数门外语。血型 A+。
+txt_roster_serial_xo	28391406
+txt_roster_birth_xo	1904年2月3日
+txt_roster_place_xo	维尔纳
+txt_roster_bio_xo	哈特维希生于铁路稽查员与学校文员之家，为逃离被债务拖垮的家庭而加入海军。海军学校的记录称他精确、不知疲倦，而且不宽恕错误。\n他在水面舰艇上服役多年，1939 年后主动申请潜艇岗位。无已确认的政治违规，不过有两条纪律处分记录提到他对低阶水兵惩罚过重。\n他没有妻子，储物柜里也不留任何私人照片。船员们敬重他的能力，也惧怕他的脾气。\n血型 O+。
+txt_roster_serial_swo	47018244
+txt_roster_birth_swo	1908年6月28日
+txt_roster_place_swo	博尔通德
+txt_roster_bio_swo	凯尔德出生在父亲的药房楼上，最初做的是航海助理。他较晚才进入海军学院，计算成绩名列前茅，指挥气质却排名靠后。\n作为学员时，他因与军警发生一次酒后争执被关押三晚，后来以"误会"澄清。\n加入 227 号潜艇后，他一直努力让自己看起来比实际年龄老成。他记下详尽的夜班日志，只有在认为查不到自己头上时才写正式投诉。\n血型 B+。
+txt_roster_serial_chief_po	62059317
+txt_roster_birth_chief_po	1900年12月9日
+txt_roster_place_chief_po	莱施塔特
+txt_roster_bio_chief_po	需要知道什么，直接问我
+txt_roster_serial_cto	73510429
+txt_roster_birth_cto	1906年4月14日
+txt_roster_place_cto	德尔根
+txt_roster_bio_cto	阿尔伯斯是船坞机械师的儿子，学会正式礼节之前先学会了保养鱼雷。他升迁很快，因为他能靠声音和气味诊断故障。\n他的档案里反复出现关于赌博、黑市零件和辱骂上级军官的投诉。1932 年的一次逮捕在他加入党的青年组织后被封存。\n他对鱼雷比对男人更有耐心，每次发射失败都视为对自己的侮辱。\n血型 A-。
+txt_roster_serial_radioman	91827463
+txt_roster_birth_radioman	1913年9月21日
+txt_roster_place_radioman	韦斯特堡
+txt_roster_bio_radioman	佩克尔在西部中继塔附近长大，少年时就开始组装非法矿石收音机。他成为报务员，是因为他能从噪声里听出规律，也因为在甲板上没人能让他闭嘴。\n人称全艇最吵的玩笑手。因上岸休假时讲了一个关于两位奶奶和国家安全委特工的笑话，被关了 35 天。\n档案记载：审讯时他大笑，随后又在声明书背面把那个包袱写了一遍。\n优秀的操作员，靠不住的嘴。血型 AB+。
+txt_roster_serial_helmsman	50619358
+txt_roster_birth_helmsman	1916年5月6日
+txt_roster_place_helmsman	凯斯特尔
+txt_roster_bio_helmsman	耶尔生于渔家，声称自己先学会读洋流，后学会数数。\n他十几岁时因从港口办公室偷走燃料券被捕一次，之后在叔叔为他签下担保书后被释放入伍。\n在舵前沉默寡言，离开舵轮就迷信起来，总爱从艇壳的每一声吱嘎里读出意味。军官们很看重他压力下的双手。\n不少水兵说，他以为没人听见时会跟潜艇说话。血型 O-。
+txt_roster_serial_cengineer	84150672
+txt_roster_birth_cengineer	1902年1月30日
+txt_roster_place_cengineer	德洛涅
+txt_roster_bio_cengineer	布兹曼出身于德洛涅的机械世家，在工厂干过活之后转入海军工程。他的职业生涯由"临时凑合却管用的抢修""正式却失败的检修"以及三次因绕过书面流程而受到的警告构成。\n1936 年，他在船坞清洗期间拒绝签署忠诚声明，被送进劳教营关了六个月。因"尚有技术价值"被释放，此后一直受到监视。\n已婚，五个孩子，对政治说教毫无耐心。他靠电线、机油和怒火让 227 号潜艇活了下来。\n血型 A+。
+txt_roster_serial_sailor_01	30287195
+txt_roster_birth_sailor_01	1918年8月11日
+txt_roster_place_sailor_01	韦尔特尔
+txt_roster_bio_sailor_01	梅滕在父亲于一次边境任职期间失踪后，由母亲和两位姨妈抚养长大。他入伍是为了稳定的薪饷和饭食，不是为了荣耀。\n他把个人装备保持得一尘不染，主动申请清洁值勤，并避免与军官争辩。\n一份青年时期的记录提到他参加过一个被禁的工人合唱团，被当作"家庭影响"驳回。\n日常可靠，一受表扬就紧张。血型 B-。
+txt_roster_serial_sailor_02	67924013
+txt_roster_birth_sailor_02	1917年3月2日
+txt_roster_place_sailor_02	比尔特
+txt_roster_bio_sailor_02	阿尔廷入伍前是码头装卸工，举手投足至今仍像在搬箱子的人。强壮、直率，从不抱怨。\n十九岁时因在配给食堂外与三名士兵斗殴被捕；证人一致认定是士兵先动手，charges 被撤销。\n识字不多，却能把口头命令记得分毫不差。他把大部分薪水寄回家给两个妹妹。\n血型 O+。

@@ -1,0 +1,983 @@
+0	1	AlphaBaker: input folder not found\r
+1	1	AlphaBaker: output folder not found\r
+3	1	AlphaBaker: no input folder defined, failed to bake\r
+4	1	AlphaBaker: no output folder defined, failed to bake\r
+5	1	AlphaBaker: searching sprite folders\r
+12	1	.jpeg\r
+25	1	Failed to bake: albedo or mask is required\r
+26	1	AlphaBaker: Folders processed: {0} \r
+38	1	IES error: Invalid buffer\r
+41	1	IES: Invalid format\r
+46	1	IES parse error: {0}\r
+49	1	Time Cycle system destroyed.\r
+50	1	TimeCycle not created, renderer not found. (creation order?)\r
+56	1	If not all variables are showing, reopen the Class Selector.\r
+60	1	ERROR: No variables found.\r
+62	1	The Renderer is responsible for rendering lights, shadows and PBR independently, without directly affecting the game's rendering.\r
+76	1	Passes:\r
+83	1	VRAM: {0} / {1}\r
+84	1	CPU Frame Time: {0}ms / {1}ms\r
+94	1	Ambient Color:\r
+101	1	PNG Images|*.png\r
+106	1	Lights Blendmode:\r
+118	1	Light Type:\r
+128	1	This feature is best suited for real-time testing. Use the room editor in production.\r
+132	1	D:/Outmagine/SubPenCommander/False Echo/False Echo.yyp\r
+139	1	Apply Dithering effect to lights and shadows for retro aesthetic. You can change the bayer texture via code.\r
+148	1	This feature allows you to detect lights pixel color at different positions in the room.\r
+156	0	Dynamic: {0}\n\r
+157	0	Static: {0}\n\n\r
+158	0	Basic: {0}\n\r
+159	0	Sprite: {0}\n\r
+160	0	Point: {0}\n\r
+161	0	Spot: {0}\n\r
+162	0	Shape: {0}\n\r
+163	1	Direct: {0}\r
+169	0	Dynamic: {0}/{1}\nStatic: {2}/{3}\r
+172	1	Shadows:\r
+186	1	Screen-space reflections. Only available for BRDF lights.\r
+195	1	Sky color:\r
+197	0	> SPRITES:\n\r
+198	0	Normals: {0}\n\r
+199	0	Emissive: {0}\n\r
+200	0	Reflections: {0}\n\r
+201	0	Metallic: {0}\n\r
+202	0	Roughness: {0}\n\r
+203	0	Ambient Occlusion: {0}\n\r
+204	0	Masks: {0}\n\n\r
+205	0	> LAYERS:\n\r
+206	0	Material (Met, Roug, Ao, Mask): {0}\n\r
+207	0	Light: {0}\n\r
+208	0	Combine: {0}\n\r
+210	1	Show UI Inspector first.\r
+218	1	Dynamics:\r
+225	1	Statics:\r
+229	1	MaterialLayer allows you to render any layer (backgrounds, instances, etc.) in any pass (Normals, Emissive, Materials, etc).\r
+232	1	Layer Range List:\r
+238	0	[Range {0}]:\nPBR Material Type: {1}\ndepth (for ordering only): {2}\nRange : {\n  Top Layer: '{3}'\n  Bottom Layer: '{4}'\n}\r
+239	1	Content:\r
+241	1	LAYER EFFECT: Normals Generator\r
+267	1	Time: \r
+268	0	{0} | Day: {1}\nSun Angle: {2}\r
+275	1	Cycle Sprites:\r
+276	1	LMB: Select | RMB: Delete\r
+278	1	A CookieGenerator is capable of generating a gobo texture that can be used in a spot light. The industry standard .IES format is also supported.\r
+305	1	Load .IES Photometry Light\r
+306	1	IES Photometry Files|*.ies;*.IES\r
+308	1	Image Files|*.png;*.jpg;*.jpeg;*.gif\r
+309	1	Preview:\r
+321	1	Room doesn't exists.\r
+323	1	Reached last room.\r
+325	1	Reached first room.\r
+327	1	GPU States:\r
+335	1	sprite_index: \r
+339	1	Image Files|*.png;*.jpg;*.jpeg\r
+389	1	cookieTexture: \r
+396	1	path: \r
+427	1	DEBUG: Class Selector\r
+433	1	DEBUG: There is no UI for the selected item: {0}\r
+434	1	Debug UI can only be drawn in Post-Draw or GUI events.\r
+435	1	"{0}" has no inspector.\r
+436	1	Failed to select. {0}\r
+472	0	HSV: {0}, {1}, {2}\nRGB: {3}, {4}, {5}\nHEX: {6}\nRMB: Copy\nMMB: Paste\r
+485	1	Unknown light object: {0}\r
+487	1	ERROR loading Light Data. Invalid buffer: {0}\r
+488	1	ERROR loading Light Data. Version not supported: v{0}, supported: v{1}+\r
+489	1	.lightdata\r
+490	1	Material not applied, renderer not found. (creation order?)\r
+493	1	MaterialLayer not applied. Renderer not found. (creation order?)\r
+494	1	MaterialLayer not applied. No layers added to it\r
+495	1	MaterialLayer not applied, effect not compatible with Material pass\r
+496	1	MaterialLayer, layer not found: '{0}'\r
+497	1	Inverted layer range order: {0} ({1}), {2} ({3})\r
+498	1	NormalsInverter: input folder not found\r
+499	1	NormalsInverter: output folder not found\r
+500	1	NormalsInverter: no input folder defined, failed to convert\r
+501	1	NormalsInverter: no output folder defined, failed to convert\r
+502	1	NormalsInverter: Files found (total): {0}\r
+503	1	NormalsInverter: [{0}%] {1}\r
+504	1	NormalsInverter: Files processed: {0} \r
+505	1	Renderer is destroyed, can't perform actions: addShadowCaster, addMaterial, addMaterialLayer, addRenderable, etc\r
+507	1	Sprite ShadowCaster failed to be added. Unknown type {0}\r
+508	1	MaterialLayer failed to be added. Unknown type {0}\r
+510	1	WARNING: Texture format is not supported on current platform! Using RGBA8 (default).\r
+511	1	Deferred class is undefined.\r
+548	1	ERROR: PreRender() is not being called, unable to work correctly!\r
+556	1	Shadow not applied, renderer not found. (creation order?)\r
+566	1	Scanning: [{0}%] {1} | {2}\r
+567	1	Shadow not applied. No meshes added previously\r
+571	1	Animation Curve asset doesn't exists. Impossible to generate curve.\r
+572	1	Curve channel not found: {0}\r
+574	1	Curve failed to load: {0}. Version not supported: {1} (current: {2})\r
+575	1	Curve read error: {0}. {1}\r
+576	1	Curve loaded: {0}\r
+579	1	Curve saved to: {0}\r
+582	1	Channel: {0}\r
+583	0	Graph unavailable.\nNo AnimCurve found.\r
+592	0	Here are listed the classes available in the current object. Select one to open and debug it.\n\nNote: click on the empty space in the upper corner whenever you want to return to this window. RMB to move, RMB+MMB to maximize.\r
+599	1	The renderer is responsible for drawing the effects on the screen. You need to import a profile with effects to be able to render something.\r
+601	1	Usage:\r
+608	1	From this renderer:\r
+610	1	Debug: No profile found in the system.\r
+613	1	Debug: Failed to save current profile.\r
+615	1	Debug: Failed to load previous profile.\r
+617	0	Effects that are higher in the list are those that are rendered last (at the top in the stack).\n\n[Experimental] Click and hold to change the effect order. The new order will be the replaced by the yellow effect.\n\nNames in gray are effects with shared stacks (changing order is not allowed here).\r
+619	1	Count: {0} | [enabled] (order) name\r
+629	0	Stack Surfaces\n- Shared stacks also appear here.\n- The "source" is not created by the system.\n\nPreview:\r
+631	1	{0} | ratio: {1}\r
+664	1	PNG Image|*.png\r
+714	1	Note: the depth buffer must be enabled to work with the scene.\r
+801	0	Below you can choose between editing the YRGB or HHSL curves.\n\nGraph commands:\nMiddle Mouse Button > Add\nLeft Mouse Button > Move\nRight Mouse Button > Delete\nMouse wheel > Choose channel\r
+803	1	YRGB/HHSL:\r
+809	0	< Curve not found>\nSet one via parameter.\r
+822	1	Curve.png\r
+829	1	Hald Grid (.Cube)\r
+864	1	SHADOW, MIDTONE, HIGHLIGHT\r
+896	1	LIFT, GAMMA, GAIN\r
+961	1	GradingLUT.png\r
+1146	1	Mode (Protanopia, Deutanopia, Tritanopia)\r
+1159	0	The profile is like a container, which contains the effects you want the system to render. They alone don't do anything, it's just a data structure.\nYou load them into the Post-processing renderer. Each Post-processing renderer can only have 1 profile loaded into it, at the same time (you can also merge profiles).\r
+1161	1	Profile Name: {0}\r
+1177	1	Cube (.cube)\r
+1179	1	*.cube\r
+1183	1	Debug: There is no debug UI for this class: {0}...\r
+1185	1	Debug: No debug inspector for this class ({0}). Going to class selector...\r
+1187	0	Failed to create inspector.\n{0}\n{1}\r
+1193	1	This menu allows you to load effects from a profile into this post-processing Renderer.\r
+1194	1	Preset profiles with a set of predefined effects.\r
+1199	1	Export loaded effects settings to the clipboard.\r
+1201	1	Debug: No profile found in the renderer.\r
+1204	1	CPU Frame Time: {0}ms\r
+1206	0	Stack Surfaces\n- Shared stacks also appear here.\n- The "Input" is not created by the renderer.\r
+1207	1	Aspect Ratio: {0}\r
+1209	1	Showing only the effects loaded from a profile. Effects Loaded: {0} | Active: {1}\r
+1223	1	Bokeh effect. Works for both 2D and 3D.\r
+1241	1	The texture frame is defined by the luminance of the pixels, going from darkest to lightest, in sequence.\r
+1257	1	This effect actually simulates color blindness so you can adjust the contrast of elements in your game.\r
+1261	1	Blend Mode:\r
+1313	1	Unable to set order of '{0}' effect to {1}. Using {2}. Not allowed.\r
+1314	1	The new order {0} of '{1}' cannot be within the order of shared stacks. Using {2}.\r
+1597	1	LUTGenerator: .cube Loading | Please Note: This feature is experimental.\r
+1598	1	.cube loading is not supported on the current platform.\r
+1615	1	Normalmap Renderer: Post-processing renderer does not exist. Unable to proceed\r
+1618	1	No palette generated, cannot get texture\r
+1619	1	Palette buffer loading error. {0}\r
+1621	1	Palette loading error. Color limit exceeded: {0}\r
+1622	1	Palette format not supported. Must be JASC-PAL\r
+1623	1	Palette loading error: {0}\r
+1624	1	Palette failed to load. < Unknown Error >\r
+1625	1	Invalid profile name.\r
+1649	1	make_color_rgb({0}, {1}, {2})\r
+1651	1	.SetOrder({0})\r
+1653	1	Parsing "{0}" Profile. WARNING: The returned string will contain undefined textures.\r
+1656	0	Error parsing "{0}" profile.\n> \r
+1657	1	Profile is undefined, can't clone\r
+1660	1	Renderer cleaned, including effects\r
+1661	1	Layer rendering from: {0} to: {1}\r
+1662	1	One of the layers does not exist in the current room: {0}, {1}\r
+1663	1	Inverted layer range order: {0}, {1}\r
+1664	1	WARNING: .LayerApply() should be called in the 'Create or Room Start events\r
+1666	1	Profile '{0}' is empty. Can't load\r
+1667	1	Profile effect import error: '{0}' is invalid\r
+1668	1	Profile loaded: '{0}' ({1} effects loaded{2})\r
+1670	1	Profile unloaded: '{0}'\r
+1675	1	ERROR: Renderer is already rendering on the layer! Do NOT call .Render() manually\r
+1680	1	save/settings.json\r
+1681	1	save/settings.json.previous\r
+1693	0	🚪 [change_room] Menjam sobu u: \r
+1694	1	 (Asset: \r
+1895	1	day01_dialogues.json\r
+1956	1	', outcome='\r
+1957	1	', processed_echo='\r
+1958	1	', base='\r
+1960	0	🟩 DG picked: \r
+2004	0	➡ [goto_event] Novi step: \r
+2073	1	ready_for_next held by Day 1 tutorial gate, notify=\r
+2079	1	ready_for_next deferred buzzer, notify=\r
+2083	1	ready_for_next GREEN, waiting for tap, notify=\r
+2122	0	 → DayTask: \r
+2224	1	Process the message.\r
+2231	1	Decrypt the message.\r
+2233	1	Encrypt the message.\r
+2234	1	Verify the Sender ID.\r
+2235	1	Sign the receipt.\r
+2236	1	Sign the statement.\r
+2373	0	🌅 Begin day from intro: \r
+2382	0	✅ day JSON loaded: \r
+2540	1	data/characters.json\r
+2541	1	data/d01_missions.json\r
+2542	1	data/d02_missions.json\r
+2543	1	data/d03_missions.json\r
+2544	1	data/d99_missions.json\r
+2545	1	data/d99_rules.json\r
+2546	1	data/day01.json\r
+2547	1	data/day01_dialogues.json\r
+2548	1	data/day02.json\r
+2549	1	data/day02_dialogues.json\r
+2550	1	data/day03.json\r
+2551	1	data/day03_dialogues.json\r
+2552	1	data/day99_dialogues.json\r
+2553	1	data/env_days.json\r
+2554	1	data/intro.json\r
+2555	1	data/localization/Endless EN.csv\r
+2556	1	data/localization/FE Rules and Missions - Rules.csv\r
+2557	1	data/localization/Frontline News EN.csv\r
+2558	1	data/localization/Localization - EN.csv\r
+2559	1	data/localization/War Diary - EN.csv\r
+2582	1	Unable to read bundled game content.\r
+2583	1	Bundled game content is damaged.\r
+2596	0	✅ CONTINUE: loaded JSON [\r
+2601	0	✅ CONTINUE DAY: loaded JSON [\r
+2660	1	There is something else I need to do.\r
+2670	1	save/day_tutorial.json\r
+2745	0	We recommend playing with the tutorial enabled.\n\nYou can change this anytime in SETTINGS/GAME.\r
+2768	1	TAP, HOLD, DRAG\r
+2823	1	TAP, HOLD TO DRAG\r
+2843	1	TAP, DRAG TO SIGN\r
+2849	1	TAP, DRAG TO SOAK\r
+2894	1	save/citation_intro.json\r
+2895	1	save/citation_intro.json.previous\r
+2897	1	Could not save first-citation monologue progress.\r
+2946	1	Thank you IndieGameJoe, you are a true mate!\r
+2954	1	TRUE only if all active verification checks are true; otherwise FALSE\r
+2959	1	TRUE only if sender ID and date are both true; otherwise FALSE\r
+2965	1	date must be current unless sender is txt_verm_sender_inb_03, which may use a believable late date and still count as true\r
+2967	1	TRUE only if sender ID and date are valid, with the Naval HQ late-date exception\r
+2971	1	use believable past or future dates only; sender_inb_03 may use believable old dates and still count as true\r
+2978	1	TRUE only if captain signature is valid; FALSE if signature is false or absent\r
+2987	1	Fixed opener. TRUE ECHO.\r
+2989	1	Correct sender ID, wrong date.\r
+2991	1	Both correct.\r
+2992	1	One wrong, then random.\r
+2994	1	Everything correct. Must hand over both verification and output paper.\r
+2998	1	Mid-day officer interruption for variety.\r
+3002	1	Captain brings a valid signed message.\r
+3014	1	First mission. Special encoding from SWO.\r
+3065	1	.json\r
+3098	1	data/<day>_rules.json\r
+3249	1	crew:\r
+3332	1	TELEPRINTER MESSAGE:\r
+3458	0	SECURITY officer,\n\nDaily orders for today are listed below. Follow them to the letter.\r
+3461	1	GENERAL RULES OF THE DAY:\r
+3467	1	No separate classified bulletin was issued. Repeat only the public bulletin to the crew. Do not discuss unverified losses, routes, or operational orders.\r
+3469	1	No additional bulletin is available for this date.\r
+3470	1	NEWS FROM THE FRONT:\r
+3472	1	FOR OFFICERS ONLY:\r
+3473	1	FOR OFFICERS EYES ONLY:\r
+3474	1	No public bulletin is available for this date.\r
+3497	1	Sender ID:\r
+3498	1	Current date.\r
+3500	1	Date:\r
+3501	1	Check Sender and Receiver fields!\r
+3502	1	Approval code:\r
+3505	1	 stamp required:\r
+3506	1	 side.\r
+3509	1	Encoding:\r
+3510	1	Echo Stamp:\r
+3511	1	back side of VERIFICATION MESSAGE.\r
+3512	1	Red Stamp:\r
+3513	1	back side of VERIFICATION MESSAGE SLIP.\r
+3514	1	back side of ENCODING MESSAGE INPUT.\r
+3515	1	back side of ENCODING MESSAGE OUTPUT.\r
+3519	1	RED STAMP for officers; BLUE STAMP for seamen, \r
+3520	1	ENCODING INPUT:\r
+3521	1	Signature required.\r
+3696	1	save/endless_last_date.txt\r
+3742	1	datafiles/data/localization/Endless EN.csv\r
+3808	1	save/endless_tutorial.json\r
+3811	1	Welcome to ENDLESS MODE. Your main goal is to process as many messages as possible with as few errors as possible.\r
+3813	1	Verify, Encode, Decode messages. Rules are listed in DAILY ORDERS. You must adhere to these rules unless you want your shift to end prematurely.\r
+3815	0	Every message consists of INPUT and OUTPUT paper. INPUT PAPER must ALWAYS be stamped with ECHO STAMPER. Output paper requires different stamps or signatures, depending on the mission type. Output papers are pulled from two drawers on your left.\n\nIf a message is not authentic: stamp it FALSE ECHO and give it back right away. If a message is authentic, stamp TRUE ECHO, process the message, clip input and output together and give them back.\r
+3817	0	For each successful mission you will earn OPPARKS. The full list is as follows:\n\nAccurate letter: +\r
+3819	1	Successful verification: +\r
+3821	1	Successful encoding: +\r
+3822	1	Successful decoding: +\r
+3824	1	Letter rewards are added to your mission reward.\r
+3826	0	For minor infractions you will receive citations. You must bring each citation to the table and shred it before progressing. Major infractions or too many citations will result in a court-martial.\n\nEach incorrect letter deducts \r
+3827	0	 OPPARK. The full list of deductions is:\n\n\r
+3828	1	Incorrect letter: \r
+3829	1	Failed verification: -\r
+3830	1	Failed encoding or decoding: -\r
+3831	1	Wrong stamp: \r
+3833	1	If you play against the timer and it runs out, you will be court-martialed afterwards.\r
+3835	1	At any given moment you can press ESC and click on END SHIFT to stop the game and finalize what you have earned so far.\r
+3839	0	By popular demand from the community, Oppressian Naval Command is releasing this EXPERIMENTAL Endless Mode.\n\nThis mode has not yet been fully tested. Bugs and unexpected behavior may occur.\n\nIf you encounter an issue, please report it on our Discord. We also welcome your suggestions for making Endless Mode better.\n\nThank you for your understanding and for helping us improve the experience. Good luck, fellow STASEC officer!\r
+3844	1	IMPORTANT NOTE!\r
+4024	0	[📡 Trigger emitovan: \r
+4192	1	Wipe the stains.\r
+4246	1	; using layer \r
+4327	0	⏸ [scr_execute_step] Step blocked (wait_for_user_step or paused): \r
+4328	0	✅ Event završen (manual execute): \r
+4450	0	✅ Fold started: \r
+4478	1	Unclip the papers before archiving.\r
+4503	1	Error: obj_mm_menu_background does not exist!\r
+4505	1	Background instantiated at (0,0)\r
+4541	1	orphan modal: \r
+4554	0	✅ Game loaded: \r
+4555	0	 → event: \r
+4563	1	JSON not available in this build: \r
+4823	1	Input paper markers cleared after output discard.\r
+4824	1	Paper discarded: output attempt cleared and input markers reset.\r
+4825	1	Enigma session reset after discarded output paper.\r
+5007	0	✅ Fold finished – paper_state set.\r
+5009	1	, active_page = \r
+5227	1	https://forms.gle/YP7KhFiu5K8UTQ519\r
+5228	1	https://discord.com/invite/VUCfHEFAcs\r
+5229	1	https://docs.google.com/spreadsheets/d/1ulIUUbY4zWIWHIneLR7H4KkD_dfQ2Sft89VJmaiI2h8/export?format=csv&gid=0\r
+5231	1	https://\r
+5232	1	https://drive.google.com/file/d/\r
+5233	1	https://drive.google.com/uc?export=download&id=\r
+5237	1	.pending.png\r
+5242	1	game:\r
+5247	1	No games available.\r
+5248	0	Loading games...\nConnection issues retry automatically.\r
+5249	1	Loading image...\r
+5251	0	Help us improve False Echo.\nShare your feedback through our form.\r
+5252	0	Join the Retromagine community.\nChat with us and follow our games.\r
+5255	1	Opens in your browser.\r
+5256	1	Link coming soon.\r
+5270	1	_missions.json\r
+5306	1	.previous\r
+5317	1	Your latest save could not be read. A backup was recovered. Some recent progress may be lost.\r
+5318	1	Your save and its backups could not be read. A new game will start.\r
+5319	1	.pending\r
+5321	1	Progress could not be saved. Check available storage and folder permissions before closing the game.\r
+5428	0	🛠 [Avatar] spawn za karakter: \r
+5432	1	' ne postoji!\r
+5435	0	✅ [Avatar] Spawn i ažuriranje kompletirano za: \r
+5455	0	🟢 NEW GAME → clean boot (INTRO, no room reload)\r
+5520	1	Equipment receipt received.\r
+5521	1	Statement received.\r
+5524	1	I hereby confirm receipt and custody of the following equipment assigned to the cipher room:\r
+5525	0	1. OBSCURA M3 x 1\n2. ECHO STAMPER x 1\n3. STAMPER, REGULAR x 1\n4. SUPPLY DRAWER x 1\n5. PAPER DRAWER x 1\n6. TELETYPER x 1\r
+5526	1	I accept material and criminal responsibility for the listed equipment until relieved by written order.\r
+5531	1	I                 under oath before the Supreme Commander in Chief, under no pressure from any party or individual, hereby acknowledge that I have committed the following crimes against the State:\r
+5532	0	I have been given a fair trial and fully accept the consequences of my actions.\n\nOPPRESSIA TO VICTORY!\r
+5533	1	Dereliction of duty, failure to report hostile influence, and negligence in the handling of state communications.\r
+5534	1	OPPRESSIA TO VICTORY!\r
+5568	1	' ne postoji u characters structu!\r
+5572	1	', koristi default.\r
+5609	1	ERROR: invalid page type or missing type\r
+5625	1	!#%()/0123456789?ABCDEFGHIJKLMNOPRSTUVWXYZ[\]bdfhiklt{}\r
+5644	1	To: Lieutenant,\r
+5656	1	https://store.steampowered.com/app/\r
+5657	1	/?l=english\r
+5663	1	wishlist_message.ini\r
+5680	1	https://api.steampowered.com/IWishlistService/GetWishlist/v1/?steamid=\r
+5702	0	📂 Učitavam JSON putanju: \r
+5705	0	] učitan.\r
+5706	0	🧪 DEBUG: Učitani gameplay_data ključevi:\r
+5710	1	toggle_ui_children: object_IDs not initialized for controller \r
+5712	1	toggle_ui_children: All children hidden for controller \r
+5715	1	toggle_ui_children: All children shown for controller \r
+5716	1	toggle_ui_children: Invalid action '\r
+5717	1	'. Use 'hide' or 'show'.\r
+5909	1	SENDER ID: \r
+5910	1	Date: ACTUAL\r
+5911	1	APPROVAL CODE: \r
+5915	1	ROTORS: \r
+5916	1	RED STAMP: OUTPUT PAPERS\r
+5917	1	STAMP: \r
+5920	1	PAPER: \r
+5923	1	Day Start sequence done -> notify: \r
+5957	1	TV_SubBubbles layer missing for close shell sequence object.\r
+5964	1	Flood tube one.\r
+5965	1	Tube one flooded.\r
+5966	1	Loading torpedo!\r
+5967	1	Hands clear!\r
+5968	1	Stand by to fire.\r
+5969	1	Fire!\r
+5975	1	 s | Frames: \r
+5980	1	Seal the leak or we shall all go down!\r
+5984	1	Faster, faster!\r
+5985	1	Give me all she's got!\r
+5986	1	What was that? Someone hit that bugger, it's burning!\r
+5987	1	Depth charges!\r
+5998	1	https://store.steampowered.com/app/4418080/False_Echo/?l=english\r
+5999	0	Thank you for playing the False Echo demo.\n\nThis is only the first part of the voyage. The full game will continue with the remaining days, new missions, and the consequences of your decisions.\n\nIf you have feedback, bug reports, or thoughts, please reach us through Discord or our social channels. Your reviews and wishlists help bring the full voyage to life.\r
+6022	1	ERROR: Missing Localization [\r
+6025	1	social_design/crew_roster_seed.csv\r
+6026	1	social_design/crew_relationship_seeds.csv\r
+6027	1	social_design/day_story_beats_seed.csv\r
+6028	1	social_design/ending_matrix.csv\r
+6029	1	social_design/major_event_seeds.csv\r
+6484	1	Workstation arrival: zoom and follow the carrier in the top view, then zoom out before opening dialogue.\r
+6485	1	character or mission_key; zoom 1.8; transitions 0.65 sec; fullscreen uses normal arrival\r
+6487	1	Standard arrival beat. Prefer one action in its own step, with notify.\r
+6488	1	notify required; use character or mission_key; map walk enabled by default\r
+6490	1	Standard leave beat. Usually followed by ready_for_next in same or next step.\r
+6491	1	character or mission_key; pair with ready_for_next defer_until_char_clear=true\r
+6494	1	Reusable short focus push for a local dramatic beat.\r
+6495	1	duration=1.0\r
+6498	1	Reusable opening/final focus beat.\r
+6499	1	duration=2.0\r
+6502	1	Reusable reset back to broader framing.\r
+6503	1	duration=0.5\r
+6506	1	Standard cinematic framing.\r
+6507	1	amount=0.4; speed=4.0\r
+6510	1	Return to gameplay framing.\r
+6511	1	amount=0.0; speed=4.0\r
+6514	1	Small breath before next step.\r
+6518	1	Pure flow plumbing. Zero-delay signal forwarder with notify.\r
+6519	1	ms=0; notify generated\r
+6522	1	Wait-for-input or wait-for-char-clear gate step.\r
+6523	1	notify required; defer_until_char_clear=true\r
+6525	1	Reusable character command step.\r
+6526	1	char=Player; behavior=idle; kind=loop\r
+6529	1	Mission handoff step.\r
+6532	1	Opening day window fade in.\r
+6533	1	duration_sec=0.5\r
+6535	1	Opening day window fade out.\r
+6537	1	Standard transition into gameplay framing.\r
+6538	1	duration_sec=0.5; to=1.0\r
+6540	1	Fullscreen window fade out.\r
+6542	1	Fullscreen window fade in.\r
+6544	1	Set scene layering to top.\r
+6546	1	Set scene layering to central.\r
+6548	1	Set scene layering to side.\r
+6550	1	Standard environment swap.\r
+6551	1	env_type=night_clear; sea_state=rough\r
+6553	1	Simple emergency/stress flash.\r
+6554	1	duration=0.4\r
+6557	1	duration=0.35\r
+6559	1	Fire a one-shot sound cue.\r
+6562	1	Daily orders prop drop.\r
+6579	1	Editor scope: \r
+6623	1	The player carries gaps and contradictions no one can fully explain.\r
+6624	1	Every crew bond eventually bends around the player.\r
+6625	1	Subtle inconsistencies should accumulate around the player without giving away certainty.\r
+6626	1	Synthetic debug node for the social graph.\r
+6820	1	Select a step before Create New.\r
+6821	1	Cannot Create New from a step with no actions.\r
+6824	1	Select a step before adding an action.\r
+6827	1	Select a step action before Edit.\r
+6828	1	Cannot edit: step data missing.\r
+6829	1	Cannot edit: selected step has no actions.\r
+6830	1	Cannot edit: action is not a JSON object.\r
+6885	1	datafiles/data/localization/Localization - EN.csv\r
+6901	1	people 0,0\r
+6998	1	Plays (one-shot, no handle)\r
+7146	1	Invalid default_action JSON.\r
+7151	1	Selected action has no completion notify. Use Fork Now for an immediate branch.\r
+7154	1	Cannot add action: selected step is missing.\r
+7161	1	DAY START and DAY END steps cannot be duplicated.\r
+7164	1	DAY START and DAY END steps cannot be deleted.\r
+7166	1	No selected action to duplicate.\r
+7168	1	No selected action to delete.\r
+7171	1	Cannot save: day data is not a JSON object.\r
+7172	1	Cannot save: JSON payload is empty.\r
+7173	1	Cannot save: missing source \r
+7177	1	 and saved JSON; runtime synced\r
+7182	1	 from day flow.\r
+7183	1	Mission key is missing from JSON: \r
+7228	1	Unlinked trigger: \r
+7229	1	Multiple actions emit: \r
+7230	1	Notify has no target: \r
+7234	1	Flow: unavailable\r
+7245	1	Flow: \r
+7248	1	- Multiple actions emit the same notify: \r
+7250	1	- Notify has no target: \r
+7253	1	- Day start trigger is missing: \r
+7258	1	Mission key is not in mission JSON catalog: \r
+7260	1	mission_key is not in mission JSON catalog: \r
+7262	1	target_room is not in room catalog: \r
+7264	1	sequence is not in sequence catalog: \r
+7271	1	sound asset is missing: \r
+7274	1	music asset is missing: \r
+7289	1	.default_action\r
+7291	1	.actions[\r
+7293	1	].actions[\r
+7294	1	.queue[\r
+7320	0	. Invalid action\n\r
+7321	0	. Invalid trigger\n\r
+7323	1	Step: \r
+7325	1	Kind: \r
+7326	1	Timing: \r
+7329	0	\nFlow warnings:\n\r
+7330	0	\nAction warnings:\n\r
+7331	0	\nTriggers:\n\r
+7332	0	\nTriggers: none\n\r
+7333	0	\nActions:\n\r
+7334	0	\nActions: none\n\r
+7335	0	\nOther fields:\n\r
+7352	1	DAY START and DAY END steps cannot leave their groups.\r
+7355	1	DAY START and DAY END group types are reserved.\r
+7358	1	Selected step is not in selected group.\r
+7361	1	Select a step or group to test from.\r
+7363	1	Test From: restarting \r
+7364	1	Test From armed: \r
+7365	1	. Start/retry this day.\r
+7369	1	Only existing DAY START or DAY END steps can use that group.\r
+7371	1	DAY START and DAY END group names are reserved.\r
+7372	1	Type group name, Enter to apply, Esc to cancel.\r
+7374	1	Pick another step to link.\r
+7376	1	Invalid source action. Link was not created.\r
+7377	1	Source has no action completion. Use Fork Now for an immediate branch.\r
+7385	1	group:\r
+7386	1	loose:\r
+7388	1	datafiles/data/d99_missions.json\r
+7389	1	datafiles/data/d99_rules.json\r
+7390	1	_rules.json\r
+7394	1	datafiles/data/d*_missions.json\r
+7395	1	data/d*_missions.json\r
+7407	1	MESSAGE: OUTBOUND\r
+7427	1	officer,po\r
+7428	1	captain,officer\r
+7429	1	captain,po\r
+7430	1	captain,officer,po\r
+7477	1	Difficulty preset left unchanged.\r
+7478	1	Encoding locked applies only to encode/decode missions.\r
+7479	1	Complex story applies only to decoding_complex missions.\r
+7480	1	Unknown difficulty preset: \r
+7482	1	. Save JSON to persist.\r
+7498	1	Selected mission has no day flow ref.\r
+7499	1	Flow ref not found in day graph.\r
+7501	1	Select a mission before creating a flow step.\r
+7502	1	Cannot create flow step: missing \r
+7513	1	 : missing preview\r
+7519	1	 has no localization preview: \r
+7521	1	] has no localization preview: \r
+7522	1	 uses unknown option: \r
+7523	1	 missing sprite: \r
+7524	1	 has unknown auth kind: \r
+7525	1	 has unknown state: \r
+7526	1	 has unknown field: \r
+7527	1	 has invalid pair: \r
+7529	1	 should be exactly three letters, e.g. GER.\r
+7530	1	 should be an object.\r
+7531	1	 has no paper.\r
+7532	1	 uses unknown paper: \r
+7533	1	 has invalid action.\r
+7534	1	 has invalid condition.\r
+7535	1	No selected mission data.\r
+7536	1	Missing mission type.\r
+7537	1	Unknown mission type: \r
+7539	1	 is not referenced by current day flow.\r
+7541	1	; add it here or change that start_mission step.\r
+7544	1	No character or character_pool.\r
+7546	1	auth_stamps should be an object.\r
+7547	1	auth_stamp_states should be an object.\r
+7549	1	Intro entry has no intro_lines.\r
+7550	1	Verification has no message/message_random_pool/input source.\r
+7551	1	Verification direction will use runtime default.\r
+7552	1	Decoded paper is enabled but has no decoded/message pool text.\r
+7553	1	 has no message/message_random_pool/input source.\r
+7554	1	 manual input has no expected output.\r
+7555	1	Decode source uses the teleprinter slip; echo_paper input is remapped at runtime.\r
+7556	1	Complex decode has no teleprinter/message text.\r
+7557	1	Complex decode has no verification/plain raw body.\r
+7558	1	Receipt has handoff_signature disabled.\r
+7559	1	Receipt does not require signature.\r
+7560	1	Receipt should give signature paper.\r
+7561	1	Signature mission has handoff_signature disabled.\r
+7562	1	Signature mission does not require signature.\r
+7563	1	Signature mission should give signature paper.\r
+7605	1	Date Text (DD.MM.YY)\r
+7670	1	Select a field to see what it changes.\r
+7671	1	Printed document text. Edit starts with the current paper text; Save Missions stores your override for this mission.\r
+7672	1	Decoded plaintext line for this Endless decode template. The encoded paper text is regenerated automatically.\r
+7673	1	Unique mission ID. Day flow uses this exact name to start the mission.\r
+7674	1	Gameplay mechanic used by this mission.\r
+7675	1	Applies a safe bundle of time, failure, and puzzle settings.\r
+7676	1	Character who brings or owns this mission.\r
+7677	1	Text/localization key shown to the player.\r
+7678	1	Adds a new generated encode text localization key to this Endless template.\r
+7679	1	Required in Story from Day 2. The decoded message must be returned for either verdict and cannot be trashed.\r
+7680	1	Plaintext on the decoded message. Uses the mission message when no separate text is set. Editing creates a separate localization key.\r
+7681	1	Short player-facing instruction for this mission.\r
+7682	1	Optional longer player-facing objective.\r
+7683	1	Time limit in seconds. 0 means no timer.\r
+7684	1	What happens when the mission fails.\r
+7685	1	The first citation in this mission leads to COURT MARTIAL and the selected lose screen.\r
+7686	1	Returning an authentic encoding input with FALSE ECHO gives COURT MARTIAL before the capital ending.\r
+7687	1	Whether typing mistakes are counted as failure pressure.\r
+7688	1	Whether the verification document is incoming or outgoing.\r
+7689	1	Input text key used by encode/decode gameplay.\r
+7690	1	Expected text key used to validate encode/decode gameplay.\r
+7691	1	Optional short dialogue shown before the task.\r
+7692	1	Whether the player must sign the document.\r
+7693	1	Actual captain signature printed on the reverse of this input slip. It contributes to the true/false Echo result.\r
+7694	1	Actual captain authentication stamp printed on the reverse. Choose none, genuine, or an exact fake.\r
+7695	1	Actual officer authentication stamp printed on the reverse. Choose none, genuine, or an exact fake.\r
+7696	1	Actual political officer authentication stamp printed on the reverse. Choose none, genuine, or an exact fake.\r
+7697	1	Which papers the player must hand over or destroy.\r
+7698	1	Advanced setting. Change it only when this mission needs special behavior.\r
+7701	1	Cannot save: mission data is not a JSON object.\r
+7702	1	 Runtime synced.\r
+7705	1	 selected warning(s).\r
+7708	1	No mission file yet. Click New, name the mission, then Save JSON.\r
+7716	1	Cannot rename: key already exists.\r
+7719	1	 flow ref(s).\r
+7720	1	Enter text before adding an Endless decode line.\r
+7723	1	 to Endless decode pool. Save JSON to persist.\r
+7724	1	Decode text slot no longer exists.\r
+7727	1	Enter text before adding an Endless encode line.\r
+7728	1	 to Endless encode pool. Save JSON to persist.\r
+7729	1	Encode text slot no longer exists.\r
+7733	1	Updated input-paper signature. Save JSON to persist.\r
+7735	1	 mark on input-paper reverse. Save JSON to persist.\r
+7737	1	 and added it to pool. Save JSON to persist.\r
+7740	1	Use Edit and enter a JSON object for custom cables.\r
+7742	1	Invalid cables JSON. Use text preset or JSON object.\r
+7743	1	Use Edit and enter a JSON object for custom auth stamp states.\r
+7744	1	Invalid auth stamps JSON: expected object.\r
+7745	1	Invalid auth stamps JSON. Fix syntax, then press Enter.\r
+7746	1	Unknown auth stamp preset: \r
+7749	1	Invalid paper rules JSON. Fix syntax, then press Enter.\r
+7750	1	Unknown paper rule preset: \r
+7752	1	Invalid JSON. Fix syntax, then press Enter.\r
+7755	1	 and its Day Flow start step. Save JSON to persist.\r
+7756	1	Deleted mission. Save JSON to persist.\r
+7757	1	No missing flow mission refs.\r
+7758	1	Missing flow ref has no usable mission key.\r
+7759	1	Mission already exists: \r
+7771	1	datafiles/data/day99_dialogues.json\r
+7772	1	_dialogues.json\r
+7805	1	datafiles/data/day*_dialogues.json\r
+7826	1	New dialogue file will be created on Save.\r
+7829	1	Cannot save: invalid line in \r
+7830	1	Cannot renumber: \r
+7832	1	. Add dialogue lines, then save.\r
+7833	1	. Add lines in the exact order they should play.\r
+7834	1	Choose Officers/Sailors, mission type, and Enter/False/True before creating a variant.\r
+7835	1	Group name already exists.\r
+7838	1	Cannot delete: used by \r
+7839	1	. Remove its dialogue call in Day first.\r
+7840	1	Cannot delete: still used in the open Day graph.\r
+7841	1	. Save to persist; Reload restores unsaved changes.\r
+7842	1	New line: type text and press Enter.\r
+7843	1	Deleted dialogue line. Save to persist.\r
+7844	1	Line order changed. Save to persist.\r
+7845	1	Speaker changed. Save to persist.\r
+7846	1	Text updated in draft. Apply the action to save.\r
+7847	1	Localization key already belongs to another dialogue line.\r
+7848	1	Edited. Click Save Dialogues + Localization to persist.\r
+7849	1	day*.json\r
+7852	1	Endless EN.csv.\r
+7853	1	Localization - EN.csv.\r
+7854	1	datafiles/data/localization/War Diary - EN.csv\r
+7859	1	 to War Diary - EN.csv.\r
+7860	1	datafiles/data/localization/Frontline News EN.csv\r
+7864	1	Frontline News EN.csv.\r
+7873	1	Task: \r
+7877	1	Scene: \r
+7878	1	Screenplay beats: \r
+7879	1	Tasks: \r
+7880	1	Events: \r
+7882	1	datafiles/data/day*.json\r
+7883	1	data/day*.json\r
+7884	1	Simulation reset.\r
+7900	1	Simulation cursor moved before first beat.\r
+7913	1	Edit cancelled.\r
+7915	1	Edited field. Save JSON to persist.\r
+7916	1	Field edit cancelled.\r
+7917	1	Group rename cancelled.\r
+7920	1	Reloaded War Diary localization preview.\r
+7921	1	Reloaded Frontline News preview.\r
+7922	1	Reloaded Endless News preview.\r
+7923	1	Dialogue day list refreshed.\r
+7924	1	Choose a day before saving dialogue data.\r
+7925	1	Back to all dialogue days.\r
+7928	1	Dialogue section: \r
+7929	1	Back in dialogue browser.\r
+7932	1	Dialogue mission type: \r
+7934	1	Dialogue phase: \r
+7935	1	Edit starting map bubble text. Enter applies, Esc cancels.\r
+7936	1	Choose a speaker.\r
+7937	1	Edit localization key. Enter applies, Esc cancels.\r
+7938	1	Edit localized text. Enter applies, Esc cancels.\r
+7939	1	Rename group. Enter applies, Esc cancels.\r
+7940	1	New mission type: \r
+7941	1	Advanced settings shown.\r
+7942	1	Basic mission settings shown.\r
+7943	1	This key is generated automatically and is read-only here.\r
+7945	1	. Enter applies, Esc cancels.\r
+7947	1	 from dropdown.\r
+7948	1	Day rules expanded.\r
+7949	1	Day rules collapsed.\r
+7950	1	Day rule changed. Save JSON to persist.\r
+7951	1	New beat.\r
+7952	1	Created in timeline editor.\r
+7957	1	Group pick cancelled.\r
+7958	1	Pick cancelled.\r
+7963	1	Select a step before creating a group.\r
+7964	1	Pick a step to add to selected group.\r
+7965	1	Select a group first.\r
+7966	1	Select a group step first.\r
+7967	1	Playback started.\r
+7968	1	Playback paused.\r
+7971	1	Playback reached end of campaign beats.\r
+7975	1	Graph: RMB drag pan / LMB drag node / Wheel zoom / H private links / P focus player / R zoom reset / T timeline\r
+7976	1	Timeline: click beat for details / T story. CSV-driven scaffold for 30 day pacing and ending pressure.\r
+7977	1	Story: click a day card to inspect its event and task summary; right panel lists the day linearly / T day editor\r
+7978	1	Day: Wheel zoom / LMB drag step / MMB drag ungroup / drag task header / RMB click create / RMB drag pan / WASD pan / T sim\r
+7979	1	Dialogues: choose a day, open one group at a time, edit text/keys/speakers, then Save Dialogues + Localization\r
+7980	1	Missions: edit dNN_missions JSON / click field to type / plus-minus cycles values / Save JSON writes source file\r
+7981	1	War Diary: edit wd_dN title/date/text directly in War Diary - EN.csv\r
+7982	1	Front News: edit Daily Orders public/confidential bulletin text in \r
+7983	1	Endless EN.csv variants\r
+7984	1	Frontline News EN.csv\r
+7985	1	Sim: autoplay campaign pacing from CSV beats / play pause / step beat / jump day / T graph\r
+7986	1	Endings: inspect ending families, trigger windows and relationship modifiers / T graph\r
+7987	1	Events: inspect major event seeds, mechanic usage and followup hooks / T graph\r
+7988	1	State: inspect story state keys extracted from beats, events and endings / T graph\r
+8001	1	Years: \r
+8002	1	   Family: \r
+8003	1	Attached links: \r
+8005	1	Nodes: \r
+8006	1	   Visible links: \r
+8007	1	   Zoom: \r
+8016	1	 / flaw: \r
+8027	1	Focus: \r
+8028	1	Secondary: \r
+8031	1	Slot: \r
+8032	1	Window Start: \r
+8033	1	Window End: \r
+8034	1	Priority: \r
+8035	1	Type: \r
+8036	1	Ending: \r
+8037	1	Axis: \r
+8052	1	Crew: \r
+8053	0	\nPlayer: \r
+8061	1	Characters: \r
+8062	1	Screenplays: \r
+8063	1	Steps: \r
+8064	1	Screenplay: \r
+8065	1	 / events: \r
+8070	1	DAY END: \r
+8071	1	DAY END MISSING: \r
+8073	1	DAY START: \r
+8074	1	UNLINKED: \r
+8081	1	Current: \r
+8083	1	Pick mode: click a step on the map\r
+8085	1	Preset: \r
+8087	1	Group: \r
+8088	1	Rename: \r
+8102	1	Selected: \r
+8103	1	Drag any selected step to move the whole selection. Click empty space to clear.\r
+8131	1	Use Rename or Type in Day Tools.\r
+8132	1	No step data loaded.\r
+8135	1	Save writes to datafiles/data/dayXX.json.\r
+8140	1	Filter: \r
+8147	1	Pick coordinates: \r
+8148	1	Current: none\r
+8149	1	Current point is outside preview bounds.\r
+8150	1	No existing point for this field.\r
+8151	1	Click to set: \r
+8153	1	Move over preview, then click. Esc or RMB cancels.\r
+8154	1	No War Diary pages found.\r
+8159	1	War Diary - EN.csv keys: wd_dN_title / wd_dN_date / wd_dN_text\r
+8170	1	Keys: day_99_txt_news_public_NN / confidential_NN\r
+8171	1	Keys: txt_fn_dN_news_public / confidential\r
+8187	1	Choose a day to inspect its dialogue groups.\r
+8194	1	Endless dialogue browser: Officers/Sailors/Daily Orders -> type -> phase -> group.\r
+8195	1	Dropdown hierarchy: only one group is expanded. Wheel pans this list.\r
+8219	1	Click two letters to link. Click a link to unlink.\r
+8220	1	Save JSON writes both mission and rules files.\r
+8225	1	intro_lines: \r
+8243	1	Date: \r
+8257	1	Validation: ok\r
+8258	1	Warnings: \r
+8259	1	Flow refs: \r
+8260	1	Flow refs: none\r
+8261	1	Missing in JSON: \r
+8262	1	Help: \r
+8263	1	Type value, then Enter saves (Esc cancels)\r
+8265	1	Click to place cursor. Arrows move; wheel scrolls. Shift+Enter: new line; Enter: accept.\r
+8270	1	Playback: \r
+8275	1	Use this to feel pacing before wiring real gameplay playback.\r
+8284	0	\nSecondary: \r
+8286	0	\nEnding: \r
+8287	1	No beat selected yet. Press Play or Next Beat.\r
+8292	1	Click any row to inspect the ending family, gate shape, and character modifiers.\r
+8295	1	Window: days \r
+8296	1	Tone: \r
+8300	1	Suspicion: \r
+8301	0	\nRegime: \r
+8302	0	\nCrew: \r
+8303	0	\nMoral: \r
+8305	1	Execution Track: \r
+8306	0	\nRelationships: \r
+8308	1	These are the big cause-effect incidents that should bridge day beats and ending families.\r
+8310	1	 / Secondary: \r
+8312	0	\nPaper: \r
+8313	1	Requires: \r
+8314	0	\nWrites: \r
+8315	0	\nFollowup: \r
+8318	1	Generated from requires/writes hooks across beats, major events, and endings.\r
+8320	1	Total usages: \r
+8326	1	Shift+Enter: new line. Enter: accept draft. Esc: cancel. Apply action to save the shared text key.\r
+8327	1	Click text to move the cursor. Arrows move; mouse wheel scrolls. Enter saves; Esc cancels.\r
+8330	1	Click inside the text to move the cursor. Enter adds a new line.\r
+8331	1	Chars: \r
+8336	1	Move Daily Orders to make room for TELETYPER.\r
+8356	1	Navigator, how much further to the rendezvous point?\r
+8357	1	Less than a minute, Captain!\r
+8358	1	Alright, prepare for landing.\r
+8360	1	Now where the hell are they?\r
+8409	1	Show this tutorial on Endless start.\r
+8594	1	:inner\r
+8668	1	paper not found: \r
+8669	1	paper not found: signature\r
+8687	1	SCENARIO 19 ERROR: MISSING Trailer_MainSequence LAYER\r
+8688	1	SCENARIO 19 ERROR: MISSING Trailer_Textes LAYER\r
+8693	1	SCENARIO COMPLETE: DAY 10 DUSK DIVE\r
+8708	1	SCREENSHOT QUEUED: \r
+8711	1	WORKAREA DIRT LEVEL: \r
+8712	1	SUBMARINE SPEED: \r
+8713	1	SEA ROUGHNESS: \r
+8715	1	SCREENSHOT SAVED: \r
+8721	1	LMB jumps, RMB autoplays, F6 / ESC closes\r
+8723	1	AUTOPLAY: \r
+8730	1	FPS limit: \r
+8731	1	Screen: \r
+8733	1	App Surf: \r
+8734	1	GUI Canvas: \r
+8735	1	Play Area: \r
+8736	1	Submarine speed: \r
+8737	1	Sea roughness: \r
+8739	1	Ocean speed: \r
+8741	1	WorkArea Dirt: \r
+8743	1	 | Level: \r
+8744	1	Memory: use F3 overlay\r
+8753	1	RESULT: \r
+8756	1	Sender ID: \r
+8758	1	Date check: \r
+8759	1	Approval code: \r
+8760	1	Signature: \r
+8761	1	ECHO: \r
+8763	1	ECHO 2: \r
+8764	1	Rotor: \r
+8765	1	Cables: \r
+8767	1	No paper rules.\r
+8775	1	Processed: \r
+8776	1	Papers clear: \r
+8777	1	Paper rules: \r
+8778	1	Echo: \r
+8779	1	Regular stamp: \r
+8780	1	Rotor/Cables: \r
+8781	1	Citations today: \r
+8783	1	Lose flags: mission=\r
+8890	0	✅ ENVIRONMENT APPLIED: \r
+8933	0	\nDestination: Sub 227\nMission: \r
+8940	1	Intro Esc skip requested.\r
+8941	0	📽️ Intro sequence completed via broadcast!\r
+8950	1	intro logo: layer 'IntroSequenceLogo' ne postoji u sobi.\r
+8979	0	✅ Logo assets učitani — pokrećem sekvencu...\r
+8999	1	STATISTICS:\r
+9163	1	options:\r
+9164	1	endless:\r
+9166	1	day:play\r
+9167	1	day:cancel\r
+9169	1	main:\r
+9175	1	name:accept\r
+9176	1	name:cancel\r
+9177	1	quit:yes\r
+9178	1	quit:no\r
+9183	1	False Echo Demo v. 0.9.8.4\r
+9198	1	Select a day to review the mission briefing.\r
+9199	1	A hard blow to the head and blurred vision. Now I must relearn what I should already know.\r
+9200	1	A major naval operation is underway, with Sub 96 leading the way. We have been assigned a secondary role, far from the main action.\r
+9201	1	Of course the operation has gone wrong. Sub 96 has gone missing. We must find some way to establish contact.\r
+9202	1	Not available in demo.\r
+9203	1	Mission briefing for selected day.\r
+9332	1	Sign the statement first.\r
+9335	1	Output stamp citation queued at handoff: req=\r
+9341	0	📎 Submission complete but evaluation still pending; deferring event \r
+9358	0	⏱ MC: mission_result=timeout (wall-clock)\r
+9361	0	📣 MC: emitted \r
+9370	1	https://docs.google.com/spreadsheets/d/1-3WlCWixki-C8NcCsrA5FBYzAYIDiT3im-I1dM0eCQ0/export?format=csv&gid=0\r
+9371	1	https://docs.google.com/spreadsheets/d/1AEcZZqKkNtBGxr_ez3r9fN5sob_poWOeY-ZZ70DEQNg/export?format=csv&gid=0\r
+9428	1	Now playing: \r
+9441	0	✅ Loaded JSON: \r
+9484	0	📬 stamp sync → global.paper_data.stamp_added = TRUE\r
+9604	1	ALL motion blur BYPASSED (main + layers).\r
+9605	1	ALL motion blur restored to scene control.\r
+9613	1	Main motion blur: \r
+9615	1	Active renderers: \r
+9617	1	 / enabled FX: \r
+9627	1	 cutoff=8.00\r
+9730	1	QUIT THE GAME?\r
+9912	1	SHIFT STATUS:\r
+9913	1	Completed: \r
+9914	1	Failed: \r
+9915	1	Total Time: \r
+10009	1	data/gameplay.json\r
+10012	0	Step: ch1_step_02\n\r
+10013	1	Trigger Type: \r
+10014	1	Required Room: \r
+10015	1	Spawn Characters: \r
+10016	1	Number of Actions: \r
+10019	1	New task received!\r
+10225	1	PUT IT ON THE TABLE.\r
+10227	1	HAND IT TO THE OFFICER.\r
+10229	1	I need to bring it to the green table.\r
+10231	1	That's not where I should drop it.\r
+10233	1	Let's put the message under the stamper.\r
+10235	1	Let's hand this paper to the XO.\r
+10288	1	What a...\r
+10289	1	Can't believe I've lost so much blood.\r
+10318	0	' done → notify: \r
+10328	1	Room Start: object_IDs initialized: \r
+10330	1	Searching for: \r
+10331	1	 against unique_Object_Id: \r
+10338	1	Parent of text_yes is: \r
+10339	1	Parent of text_no is: \r
+10340	1	Lists have been populated.\r
+10361	0	✅ Warning message resolved (moved to work area).\r
+10368	1	ERROR: Unknown page type for page \r
+10376	1	Your support has reached Naval Command. Preparations for the full voyage are underway.\r
+10378	0	Oppressia appreciates your support.\nCarry on.\r
+10380	1	Our records are incomplete. Your time aboard Sub 227 has not gone unnoticed.\r
+10383	1	, thank you.\r
+10385	1	The demo is only the beginning. Naval Command requests your support for the voyage ahead.\r
+10386	1	 to your Steam wishlist.\r
+10387	0	Help us bring the full voyage to life.\nOppressia is counting on you.\r
+10388	1	WINDOW SIZE:  \r
+10389	1	DRAW AREA:    \r
+10390	1	OFFSET:       \r
+10392	1	MOUSE:        \r
+10393	1	IN DRAW AREA: \r
+10409	0	Steamworks_x64.dll\r
+10787	0	mus_01_Rumination.wav\r
+10788	0	mus_02_Awaken.wav\r
+10789	0	mus_03_Preparation.wav\r
+10790	0	mus_04_Resurrection.wav\r
+10791	0	mus_05_Cave_poem.wav\r
+10792	0	mus_06_Entrance.wav\r
+10793	0	mus_07_Dark.wav\r
+10794	0	mus_08_Destiny.wav\r
+10795	0	mus_09_Light.wav\r
+10796	0	mus_10_Defeat.wav\r
+10797	0	sfx_airplane_flyby.wav\r
+10798	0	sfx_airplane_mg_fire.wav\r
+10799	0	sfx_button_tap.wav\r
+10800	0	sfx_metal_drawer_close.wav\r
+10801	0	sfx_metal_drawer_open.wav\r
+10802	0	sfx_number_counter.wav\r
+10803	0	sfx_scroll_metal.wav\r
+10804	0	sfx_stamp_lift.wav\r
+10805	0	sfx_stamp_on_pad.wav\r
+10806	0	sfx_stamp_paper.wav\r
+10970	0	audiogroup_default.dat\r
+10972	0	audio_group_sounds_fx.dat\r
+10974	0	audio_group_sounds_music.dat\r
+20948	0	{"name":"_effect_blend","displayname":"effect_blend","type":"effect","layertype":"single","parameters":[{"name":"g_Blend","displayname":"Blend Mode","type":"float","gadget":"dropdown","dropdown_values":["bm_add","bm_max","bm_subtract"],"elements":1,"arraysize":0,"default":1.0,"min":1.0,"max":3.0}],"scriptname":"_effect_blend__effect_blend"}\r
+20950	0	{"name":"_filter_ripples","displayname":"filter_ripples","type":"filter","parameters":[{"name":"g_RipplesPosition","displayname":"Position","type":"float","fields":["X","Y"],"elements":2,"arraysize":0,"default":[0.0,0.0],"min":[0.0,0.0],"max":[2048.0,2048.0]},{"name":"g_RipplesSpeed","displayname":"Speed","type":"float","elements":1,"arraysize":0,"default":2.0,"min":0.0,"max":8.0,"convertValueToTimeModulated":6.283185307},{"name":"g_RipplesWidth","displayname":"Width","type":"float","elements":1,"arraysize":0,"default":64.0,"min":1.0,"max":512.0},{"name":"g_RipplesAmplitude","displayname":"Amplitude","type":"float","elements":1,"arraysize":0,"default":0.5,"min":0.0,"max":1.0},{"name":"g_RipplesRadius","displayname":"Radius","type":"float","elements":1,"arraysize":0,"default":0.0,"min":0.0,"max":2048.0}]}\r
+21111	0	Message from XO: this message must go through. Our crew is tired, exhausted, they need to keep their posture up.\r\nForget about the date, I know that it's not good. Think about your crewmates, how hard it gets to stand watch without a hot cup of coffee.\r
+21175	0	fallbacktexture.png\r
+21176	0	pt_shape_circle.png\r
+21177	0	pt_shape_cloud.png\r
+21178	0	pt_shape_disk.png\r
+21179	0	pt_shape_explosion.png\r
+21180	0	pt_shape_flare.png\r
+21181	0	pt_shape_line.png\r
+21182	0	pt_shape_pixel.png\r
+21183	0	pt_shape_ring.png\r
+21184	0	pt_shape_smoke.png\r
+21185	0	pt_shape_snow.png\r
+21186	0	pt_shape_spark.png\r
+21187	0	pt_shape_sphere.png\r
+21188	0	pt_shape_square.png\r
+21189	0	pt_shape_star.png\r
+21211	0	.yytex\r

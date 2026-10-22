@@ -1,0 +1,253 @@
+txt_wrn_subtitle	国家安全委员会
+txt_wrn_title	第
+txt_wrn_title_last	最后一次警告
+txt_wrn_general_line	发现以下违规行为
+txt_wrn_wrong_sender_id	^ 错误回响 —— 发报方代号不正确
+txt_wrn_wrong_sender	^ 错误回响 —— 发报方为伪造
+txt_wrn_wrong_receiver	^ 错误回响 —— 收报方为伪造
+txt_wrn_wrong_date	^ 错误回响 —— 日期不符
+txt_wrn_wrong_auth_code	^ 错误回响 —— 认证码不正确
+txt_wrn_wrong_auth_stamp	^ 错误回响 —— 授权印章无效
+txt_wrn_wrong_reg_stamp	^ 盖了错误的印章
+txt_wrn_red_stamp_missing_output	^ 输出电文缺少红章
+txt_wrn_blue_stamp_missing_output	^ 输出电文缺少蓝章
+txt_wrn_wrong_reg_stamp_side	^ 印章盖在了错误的一面
+txt_wrn_sig_missing	^ 缺少操作员签名
+txt_wrn_too_many_mistakes	^ 电报无法辨认 —— 错误过多
+txt_wrn_unfinished_encoding	^ 加密流程尚未完成
+txt_wrn_message_was_true	^ 真实电文被盖上伪回响
+txt_wrn_task_timeout	^ 任务未在规定时间内完成
+txt_wrn_output_destroyed	^ 未提交输出电文
+txt_wrn_input_destroyed_not_archived	^ 未提交原始电文
+txt_wrn_input_destroyed_before_encoding	^ 加密完成前电文已损毁
+txt_wrn_verification_output_inaccurate	^ 核验电文解密不准确
+txt_wrn_sender_id_not_decoded_false_echo	^ 未解密发报方代号就盖上伪回响
+txt_wrn_verification_falsification	^ 伪造核验电文处理流程
+txt_notif_DO_received	收到每日命令！
+txt_notif_vm_received	收到核验电文！
+txt_notif_decoded_received	收到解密电文！
+txt_notif_decoded_required	请提交解密后的电文。
+txt_notif_input_received	收到电文！
+txt_notif_vpaper_received	收到训诫书！
+txt_notif_ppaper_received	收到密电！
+txt_notif_echo_stamp_first	请先盖回响印章！
+txt_notif_trash_paper_first	请丢弃输出电文！
+txt_notif_close_the_lid	请先合上暗影机盖！
+txt_notif_switch_obscura_off	关闭暗影机电源！
+txt_notif_flip_paper_to_write	翻面以便书写
+txt_notif_pull_output_paper_first	请先取出输出电文
+txt_notif_archive_input_message	需要原始电文。
+txt_notif_hand_over	提交
+txt_mono_endless_timeout_lose	糟了，这下麻烦大了……
+txt_notif_trash	丢弃
+txt_action_trash	丢弃
+txt_action_hand_over	提交
+txt_action_stamp	盖章
+txt_action_drag	拖动
+txt_action_flip	翻面
+txt_tooltip_verification_paper	核验电文
+txt_tooltip_input_message	原始电文
+txt_tooltip_output_message	输出电文
+txt_tooltip_private_message	密电
+txt_tooltip_citation_paper	训诫书
+txt_tooltip_statement_paper	声明书
+txt_tooltip_obscura	暗影机
+txt_tooltip_power_switch	电源开关
+txt_tooltip_rotor_panel	转子面板
+txt_tooltip_obscura_pull_up	拉起暗影机
+txt_tooltip_obscura_pull_down	放下暗影机
+txt_tooltip_manual	操作手册
+txt_tooltip_roster	船员名册
+txt_tooltip_daily_orders	每日命令
+txt_tooltip_buzzer	呼叫铃
+txt_tooltip_regular_stamp	普通印章
+txt_tooltip_echo_stamper	回响印章机
+txt_tooltip_echo_selector	回响选择器
+txt_tooltip_echo_handle	回响手柄
+txt_tooltip_teletyper_handle	电传打字机手柄
+txt_tooltip_teletyper_drawer	电传打字机抽屉
+txt_tooltip_teletyper_red_button	电传打字机按钮
+txt_tooltip_teletyper_mode_selector	电传打字机模式
+txt_tooltip_teletyper_paper_cover	电传打字机纸罩
+txt_tooltip_ink_pen	蘸水笔
+txt_tooltip_music_player	留声机
+txt_tooltip_rotors	转子
+txt_tooltip_trash_can	废纸篓
+txt_tooltip_archive	补给抽屉
+txt_tooltip_paper_drawer	纸张抽屉
+txt_notif_power_o_off	请先关闭暗影机电源！
+txt_notif_lower_obsc	把暗影机放回原位。
+txt_notif_return_rotors	把转子复位。
+txt_notif_move_do_for_obscura	请移走每日命令，给暗影机腾出空间。
+txt_notif_mes_archived	电文已销毁
+txt_notif_pap_handed_over	电文已提交。
+txt_notif_mis_not_ready	任务尚未就绪。
+txt_notif_staple_message_first	请先把电文装订好
+txt_endl_tooltip_on	开
+txt_endl_tooltip_off	关
+txt_endl_tooltip_demo	Demo 中不可用。
+txt_endl_tooltip_timer	每项任务都有规定时限。超时会被送上军事法庭，你的班次（和职业生涯）也就到此为止了。
+txt_endl_tooltip_rotors	你必须把转子调到不同的组合，才能对电报进行加密或解密。
+txt_endl_tooltip_stamps	原始电文上会有印章，你需要核实其真伪。
+txt_endl_tooltip_easy	棘手规则的组合出现频率很低，难度是逐渐提升的。
+txt_notif_wrong_paper	纸张不对。
+txt_notif_what_with_empty_paper	我拿一张空白纸能做什么？
+txt_notif_encdec_first	请先加密或解密。
+txt_notif_hand_required_pap	请先提交需要的电文。
+txt_notif_ver_pap_missing	缺少核验电文。
+txt_notif_procoutp_required	需要处理过的输出电文。
+txt_notif_inputpaper_required	需要原始电文。
+txt_notif_private_required	需要密电。
+txt_notif_encode_first	请先加密电文。
+txt_notif_decode_first	请先解密。
+txt_notif_verification_first	请先完成核验。
+txt_notif_verify_message_first	请先核验电文
+txt_tooltip_paper_stapler	装订机
+txt_action_staple	装订
+txt_action_unclip	拆开
+txt_notif_wpaper_required	需要警告书。
+txt_notif_doc_received	文件已收到！
+txt_tut_01_generic_blocked	我还有别的事要做。
+txt_tut_01_step_01	点击、长按、拖动
+txt_tut_01_step_02	把每日命令放到这里
+txt_tut_01_step_03	点击打开
+txt_tut_01_step_04	拿起每日命令
+txt_tut_01_step_05	放回每日命令
+txt_tut_01_step_06	拿起电文
+txt_tut_01_step_07	放置电文
+txt_tut_01_step_08	点击打开
+txt_tut_01_step_09	拖动输出电文条
+txt_tut_01_step_10	放置电文条
+txt_tut_01_step_11	点击打开
+txt_tut_01_step_12	点击开机
+txt_tut_01_step_13	用键盘输入
+txt_tut_01_step_14	用键盘输入
+txt_tut_01_step_15	用键盘输入
+txt_tut_01_step_16	点击关机
+txt_tut_01_step_17	点击关闭
+txt_tut_01_step_18	点击打开
+txt_tut_01_step_19	点击并长按拖动
+txt_tut_01_step_20	放置电文
+txt_tut_01_step_21	点击盖章
+txt_tut_01_step_22	点击关闭
+txt_tut_01_step_23	点击拾取
+txt_tut_01_step_24	点击提交
+txt_tut_01_step_25	点击拾取
+txt_tut_01_step_26	点击丢弃
+txt_tut_01_step_27	点击启动
+txt_tut_01_buzzer_call_next	点击呼叫下一位
+txt_tut_01_private_read_pick	拿起电文
+txt_tut_01_private_read_place	放置电文
+txt_tut_01_private_pick	拿起电文
+txt_tut_01_private_trash	拖到废纸篓
+txt_tut_01_step_28	点击封面打开战争日记
+txt_tut_01_step_29	点击或拖动翻开下一页
+txt_tut_01_step_30	拿起钢笔
+txt_tut_01_step_31	点击并拖动签名
+txt_tut_01_step_32	归还钢笔
+txt_tut_01_step_33	点击翻面
+txt_tut_01_step_34	点击鼠标右键翻面
+txt_tut_01_step_35	点击鼠标右键翻面
+txt_tut_01_flip_paper	点击鼠标右键翻面
+txt_tut_01_archive_open	点击打开
+txt_tut_01_pick_clip	点击拾取
+txt_tut_01_clip_output	点击装订
+txt_tut_01_connect_verification	拖放以连接
+txt_tut_01_pickup_bundle	拿起这叠电文
+txt_tut_01_handover_bundle	提交这叠电文
+txt_tut_01_trash_open	点击打开
+txt_tut_01_statement_pickup	点击并拖动
+txt_tut_01_statement_move_to_green	把文件放到这里
+txt_tut_01_statement_pick_pen	点击拾取
+txt_tut_01_statement_sign	点击并拖动签名
+txt_tut_01_statement_return_pen	点击归还
+txt_tut_01_statement_pickup_signed	拿起声明书
+txt_tut_01_statement_handover	提交声明书
+txt_tut_01_statement_buzzer	点击启动
+txt_tut_01_clean_pick_sponge	点击拾取
+txt_tut_01_clean_scrub_blood	点击并拖动擦拭
+txt_tut_01_clean_wash_sponge	点击清洗
+day_01_txt_mono_pre_po_what_a_monologue_01	这……
+day_01_txt_mono_after_sailor06_01	好，只要电文是伪回响，我就可以直接退回去，不用多解释，也不用输出电文。
+txt_tut_01_clean_inner_intro	真不敢相信我流了这么多血。
+txt_tut_01_clean_inner_scrub	希望我擦的时候不会晕过去。
+txt_tut_01_statement_inner_pickup	我有种预感，等下签的东西我会后悔。
+txt_tut_01_statement_inner_sign	我得在一件自己完全不记得的事情上签声明。不过，命令就是命令。
+txt_tut_01_statement_inner_handover	好吧，我签了这份"供词"。现在得把它交上去。我的手在抖，冷汗顺着脊背往下淌。
+txt_tut_01_statement_inner_buzzer	该死，我到底把自己卷进什么事里了……我刚才签的是什么？糟了。这下真的糟了。
+txt_tut_01_daily_inner_pickup	看得出他在生气，因为我浪费了他的时间。我最好一字不差地照他说的做，别把事情搞砸。深呼吸……
+txt_tut_01_daily_inner_senderid	好，让我看看。发报方代号很重要。我得把核验电文盖在背面。还有什么……我得翻到背面看看还有什么。
+txt_tut_01_ver_inner_pickup	好，来看看这份核验电文。如果我没记错，它是普通电传打字机电文的最上面那张纸条，用来验证身份。
+txt_tut_01_obscura_inner_open	现在是最难的部分。我得打开暗影机。它在右边，手柄在下面。
+txt_tut_01_obscura_inner_power	暗影机，先进的加密设备。我得打开电源开关，才能看到那些代表字母和数字的灯泡被加密或解密。
+txt_tut_01_obscura_inner_type	好，开了。现在看看。发报方代号就在上面。我得把代码输进去，记下哪些灯泡亮起。千万不能按错键。有时候仅仅一个字母之差，结果就完全不同。
+txt_tut_01_obscura_inner_close	呼。好了，我解出来了。现在得关掉暗影机，把它推回墙里。这里简直让人喘不过气。
+txt_tut_01_echo_inner_open	又办完一件。现在我得用回响印章给核验电文盖章。至少这台设备还是好用的。我记得怎么用。可以盖真回响，也可以盖伪回响。来，把它从抽屉里拉出来。
+txt_tut_01_echo_inner_flip	好，用鼠标右键把这张纸翻过来。背面应该有一块印好的位置，等会儿我要在那儿盖章。
+txt_tut_01_echo_inner_clip_intro	好，现在把这张纸翻过来，装订到输出电文条上。看看纸夹在哪里。
+txt_tut_01_echo_inner_handover	好，我盖了真回响。发报方代号是对的，背面也盖过了，应该没问题。在执行官揪住我脖子之前，先把东西交上去。
+txt_tut_01_output_inner_trash	唉，这份纸我得销毁。国家安全委有专门的销毁抽屉，会把它们撕成碎片。不然的话，它们就会被人拿去擦屁股。你想象一下用最高机密擦屁股……
+txt_mono_day01_sailor11_after_xo_wait	等等，那是什么？
+txt_mono_day01_sailor11_private_trash_intro	那到底是什么意思？我最好把这东西处理掉。
+txt_tut_01_statement_drop_wrong_green	放到桌子上。
+txt_tut_01_statement_drop_wrong_handover	交给军官。
+txt_tut_01_drop_wrong_green	我得把它拿到绿色桌面。
+txt_tut_01_drop_wrong_table	那不是我该放的地方。
+txt_tut_01_drop_wrong_stamper	把电文放到印章机下面。
+txt_tut_01_drop_wrong_handover	把这张纸交给执行官。
+txt_tut_01_wrong_letter	字母错误
+txt_wrn_mist_light	你最近一次传输的内容存在错误，导致结果无法令人满意，指挥部不得不自行揣测你的本意。请确保所有设置流程均正确执行，避免再次出错。
+txt_wrn_mist_heavy	报务员已告知，你最近一次电报中包含大量错误。视此为你最后一次警告——请确保所有流程均正确执行，以来的传输必须清晰准确。
+txt_wrn_stamps_wrong	所盖印章不正确。请确保所有标记均符合你当前的每日命令。
+txt_wrn_mist_light_stamps_wrong	你最近一次传输的内容存在错误，导致结果无法令人满意，指挥部不得不自行揣摩你的本意。此外还盖了错误的印章。请确保所有流程均正确执行，且所有标记均符合你当前的每日命令。不会再容忍更多错误。
+txt_wrn_mist_heavy_stamps_wrong	报务员已报告，你最近一次电报中包含大量错误，且所盖印章不正确。视此为你最后一次警告。请确保所有流程均正确执行，且所有标记均符合你当前的每日命令。今后的传输必须清晰准确。
+txt_verm_sender_title	发报方
+txt_verm_receiver_title	收报方
+txt_verm_senderid_title	发报方代号
+txt_verm_barcode_title	条形码
+txt_verm_mess_inb_title	电文：收
+txt_verm_date_title	日期
+txt_verm_apprcode_title	批准码
+txt_verm_vermess_title	核验电文
+txt_input_message_title	原始电文纸
+txt_output_message_title	输出电文纸
+txt_ver_output_title	核验电文条
+txt_ver_output_title_line_1	核验电文
+txt_ver_output_title_line_2	条
+txt_tooltip_verification_slip	核验电文条
+txt_tooltip_output_paper	输出电文
+txt_verm_sig_title	签名
+txt_verm_echostamp_title	在此盖回响章
+txt_verm_sender_inb_01	澄清部
+txt_verm_sender_inb_02	国防部
+txt_verm_sender_inb_03	海军总部
+txt_verm_sender_inb_04	潜艇技术处
+txt_verm_sender_inb_05	中央后勤部
+txt_verm_sender_inb_06	社会事务管理处
+txt_verm_sender_inb_07	卫生部
+txt_verm_sender_inb_08	安全部
+txt_verm_sender_inb_09	政治事务局
+txt_verm_sender_inb_10	空军司令部
+txt_verm_sender_inb_11	国家安全委总部
+txt_verm_sender_inb_12	反情报局
+txt_verm_sender_inb_13	对立阵营邮政
+txt_verm_sender_outb	227 号潜艇
+txt_verm_receiver_CaptainRank	舰长
+txt_verm_receiver_Captain	227 号潜艇
+txt_verm_receiver_XO	执行官
+txt_verm_receiver_SWO	值更军官
+txt_verm_receiver_CPO	政治委员
+txt_verm_receiver_CTO	鱼雷军官
+txt_verm_receiver_Radioman	报务员
+txt_verm_receiver_Helmsman	舵手
+txt_verm_receiver_CEngineer	轮机长
+txt_verm_receiver_Medic	舰医
+txt_verm_receiver_Cook	厨子
+txt_verm_receiver_Quartermaster	军需官
+txt_verm_receiver_EngineMechanic	轮机兵
+txt_verm_receiver_Player	密码军官
+txt_verm_receiver_undefined	未定义
+txt_man_cover_bigtitle	密码军官操作手册
+txt_man_cover_smalltitle	国
+安全
+局

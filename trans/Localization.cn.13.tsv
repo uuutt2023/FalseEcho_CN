@@ -1,0 +1,62 @@
+d03_t4_true_e_05	是，你可以退下了。祝你维修顺利。
+d03_t4_false_e_07	好，当然。去吧。
+d03_repair_true_01	好，按你计划的那样接上去。
+d03_repair_true_02	可我敢肯定这不管用。
+d03_repair_true_03	会管用的，兄弟。会管用的。别担心。
+d03_repair_true_04	来了。接线……合上电源……
+d03_repair_false_01	等等，兄弟。这是我的活儿。
+d03_repair_false_02	安静！那封电文被标成了伪回响。
+d03_repair_false_03	你还是不听。
+d03_repair_false_04	你跟咱妈一样倔。
+d03_repair_success_01	成功了！电力恢复！
+d03_repair_success_02	真不敢相信……你居然真的做到了。
+d03_repair_success_03	干得好，吉兹！
+d03_repair_report_01	舰长，电力已恢复。
+d03_repair_report_02	干得好，轮机长。我就知道我们能指望你。
+d03_repair_report_03	是我弟弟，舰长。是他想出的办法。
+d03_repair_report_04	很好。准备加速。执行官，准备改变航向。
+d03_repair_report_05	是，舰长。
+d03_repair_report_06	另外准备一封给海军总部的电文。我们重新开工了。
+d03_final_orders_01	目视无接触。
+d03_final_orders_02	双机全速！
+d03_final_orders_03	我一定会找到你。
+d03_final_power_01	舰长，我们在试，但电力上不去。
+d03_final_power_02	我知道哪儿不对。我来修！
+d03_final_wiring_01	好，我知道是什么了。这个接点没接牢……
+d03_final_wiring_02	只要把这个接在这儿……
+d03_final_death_01	不！吉兹！
+d03_final_death_02	别光站着！做点什么啊！
+d03_final_death_03	没用了……他走了。
+d03_final_report_01	舰长，出事了。
+d03_final_reaction_01	什么事故？
+d03_final_reaction_02	吉兹……他死了。
+d03_final_reaction_03	什么！？
+d03_t2_message	机舱致总部技术处 全艇电气负载持续波动 舱内灯光无规律熄灭 在配电盘进一步恶化前请予指导 奥普雷西亚光荣
+d03_t2_decoded	海区 BE 62 天气 强风 西北 9 级 海况恶劣 能见度差
+d03_t3_message	电工请求拆除我方鱼雷上的铜线 请予指示
+d03_t4_message	技术处致轮机长 五号配电盘旁路已获批准 重新接通负载前请遵照更新后的保险丝盒接线说明
+d03_t4_decoded	技术处批准使用定制铜质绝缘导线覆盖 5 号配电盘
+d03_tutorial_hint_input_pick	拿起电文
+d03_repair_false_05	可是，兄弟，我在船坞上就是这么干的。当时管用。
+d03_repair_false_06	在船坞上，导线有现在这么粗的两倍。
+d03_repair_false_07	好，那就来检验一下你那套理论吧……
+d03_repair_success_false_02	真不敢相信……
+d03_repair_success_false_03	看吧！我早说了！
+d03_repair_success_false_04	你就不信我。
+d03_repair_success_false_05	对不起，吉兹……
+d03_final_power_switchboard	五号配电盘又跳闸了。
+d03_final_death_true_01	吉兹！我该怎么跟咱妈交代？
+d03_final_death_true_02	我杀了他！
+d03_final_death_true_03	杀谁？
+d03_final_death_true_04	杀那个把规章流程放在人命前面的人！
+d03_final_death_false_01	吉兹……都是我的错。
+d03_final_death_false_02	我该怎么跟咱妈交代……
+d03_final_death_false_03	别自责……事故总会发生。
+d03_final_death_false_04	该怪我。我做得不够……
+txt_wrn_title_court_martial	军事法庭
+txt_mono_day02_decoded_message	啊，这些电文已经解密过了。现在我能看出是关于什么的了。
+txt_mono_first_citation	我犯了个错，现在要记在档案里了。每一个漏掉的步骤或错误都可能给我记上一笔训诫，甚至可能上军事法庭。得趁没人进来之前把它撕掉。
+txt_notif_read_citation_first	先阅读训诫书
+txt_notif_read_decoded_first	先阅读解密后的电文
+txt_tooltip_end_shift	点击结束值班
+txt_notif_no_space_to_write	没有空间可写了

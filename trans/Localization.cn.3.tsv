@@ -1,0 +1,140 @@
+txt_do_di_fp_day01	1942年3月16日。\n暗影机：\n转子 —— 无\n接线 —— 无\n核验：\n发报方代号：SUBHUNT\n印章：\n无需普通印章。\n所有电文均已放行。背面可查看最新消息与通报。
+txt_do_di_bp_day01	我们趁着夜色出发了。\n我们离开后，潜艇基地又遭受了 3 小时的空袭。\n敌人有可能已经察觉了我们的动向。
+txt_do_di_fp_day02	日期：\n1942年3月17日。\n主转子：\n任意\n接线：\n无\n印章：\n所有电文均盖蓝章。\n所有电文均已放行。背面可查看最新消息与通报。
+txt_do_di_bp_day02	昨天，我们光荣的海军击沉了 4 艘运输船和 1 艘驱逐舰。\n联合联邦每天都在损失惨重，而我们正在稳步扩大既得阵地。\n我军正在猛攻巴尔科夫，包围了约五万苏维埃军队。
+txt_do_di_fp_day03	日期：\n1942年3月18日。\n主转子：\nK-U-R\n接线：\n无\n印章：\n密电盖红章，公函盖蓝章。\n所有电文均已放行。背面可查看最新消息与通报。
+txt_do_di_bp_day03	可惜，我们的内政大臣在布泽希亚落入了联合联邦恐怖分子的手中。\n医学取得新突破，我们可能找到了治疗胃溃疡的方法。\n政府将每人每日肉类配给提高到 55 克。
+txt_do_di_gr_title	通则
+txt_do_di_gr_b1_title	关于这份工作
+txt_do_di_gr_b1_text	密码军官的职责至关重要。你必须在日常工作中遵守以下规则。违规可能招致禁闭，甚至处决。\n- 确保所有电文的安全字段均有效。\n- 正确地在所需纸张上盖章。\n- 按照每日命令的要求归档或销毁纸张。\n- 尽最大可能减少电文中的错误。\n- 节约能源。不用的设备要关掉。\n- 密切关注细节。
+txt_do_di_gr_b2_title	规则一 —— 保密作业
+txt_do_di_gr_b2_text_01	你有一台使用红、绿灯泡的电气设备。
+txt_do_di_gr_b2_text_02	点击它来切换状态。\n绿灯：任何人都可以进入\n红灯：作业进行中，请勿打扰。
+txt_do_di_gr_b3_title	规则二 —— 纸张归还
+txt_do_di_gr_b3_text_01	主要纸张必须盖回响章。真回响需要把处理好的输出纸装订在原始纸后面。
+txt_do_di_gr_b3_text_02	用补给抽屉取电文条和输出纸，然后在移交前把所需纸张装订好。
+txt_do_di_gr_b4_title	规则三 —— 盖章
+txt_do_di_gr_b4_text_01	当每日命令中明确要求时，你必须在输出电文上盖章。\n你需要取下印章，盖上相应颜色，再把印章放回支架。
+txt_do_di_gr_b5_title	规则四 —— 保持整洁
+txt_do_di_gr_b5_text_01	务必尽可能少犯错。你犯的错越少，传输就越快。这是海军，不是游乐场！
+txt_do_di_gr_b6_title	规则汇总
+txt_do_di_gr_b6_text_01	1. 严守机密。\n2. 保持工作台整洁。\n3. 遵照暗影机设置。\n4. 动作要快，手脚要干净。\n5. 归还所需的主要纸张。\n6. 需要时给纸张盖章。\n7. 不用暗影机时把它关掉。\n8. 服从指示和上级的所有命令。
+txt_do_di_er_title	舱室布局
+txt_do_di_er_b1_buzzer	呼叫铃
+txt_do_di_er_b1_pen	钢笔
+txt_do_di_er_b1_daily_orders	每日命令
+txt_do_di_er_b1_stamp	印章
+txt_do_di_er_b1_manual	手册
+txt_do_di_er_b1_messenger	报务员
+txt_do_di_er_b1_archive	补给抽屉
+txt_do_di_er_b1_papers_drawer	纸张抽屉
+txt_do_di_er_b1_warning	密码舱内的所有物品都由你本人负责！
+txt_do_di_er_front_text	这是你的工作场所。确保一切井井有条、各归其位。设备与工具的任何损坏都由你负责。
+txt_do_di_er_back_text	主舱区域与工具：\n1. 呼叫铃\n2. 蘸水笔\n3. 电文打字机\n4. 废纸篓\n5. 装订机／加密输出。\n6. 纸张抽屉\n7. 普通印章\n8. 电文抄本\n9. 每日命令\n10. 手册抽屉\n11. 名册抽屉
+txt_do_di_obm_title	暗影机
+txt_do_di_obm_main_parts	暗影机 三型主要部件：\n1. 电源开关\n2. 键盘\n3. 灯泡\n4. 转子\n5. 转子盖板\n6. 顶部拉手柄\n7. 左／右拉手柄\n8. 向下拉杆\n9. 接线插板
+txt_do_di_obm_b1_handle	手柄
+txt_do_di_obm_b1_power_switch	电源开关
+txt_do_di_obm_b1_keyboard	键盘
+txt_do_di_obm_b1_text	握住手柄把暗影机拉到桌面上。按下电源开关开机／关机。在键盘上输入以加密或解密文本。
+txt_do_di_om_b4_text03	再次点击插头即可断开该组合。
+txt_do_di_cr_title	船员名册
+txt_manual_bio_captain	库尔特·魏斯曼\n舰长\n服役 21 年\n已婚，两个孩子
+txt_manual_bio_xo	马丁·哈特维希\n副指挥官\n服役 16 年\n未婚
+txt_manual_bio_sw_officer	厄尼·凯莱德\n执行官副手\n服役 6 年\n已婚
+txt_manual_bio_chief_po	苏利·伯纳\n政治委员\n服役 11 年\n离过两次婚
+txt_manual_bio_ct_officer	弗里迪·阿尔伯斯\n主管鱼雷\n服役 8 年\n已婚，两个孩子
+txt_manual_bio_radioman	哈维·佩克尔\n负责无线电通信\n服役 6 年\n未婚
+txt_manual_bio_helmsman	马蒂亚斯·耶尔特\n操舵\n服役 10 年\n未婚
+txt_manual_bio_cengineer	莱夫特·布兹曼\n主管电气\n服役 7 年\n已婚，五个孩子
+txt_manual_bio_sailor_01	乔伊·米滕\n水兵\n服役 2 年\n未婚
+txt_manual_bio_sailor_02	乔尔·阿尔廷\n水兵\n服役 4 年\n未婚
+txt_manual_bio_sailor_03	波勒·布辛斯基\n水兵\n服役 1 年\n已婚
+txt_manual_bio_sailor_04	科比·勒尔特\n水兵\n服役 5 年\n未婚
+txt_manual_bio_sailor_05	马基·塔舍尔\n水兵\n服役 3 年\n未婚
+txt_manual_bio_sailor_06	德斯尼·维尔默\n水兵\n服役 1 年\n已订婚
+txt_manual_bio_sailor_07	科汉·帕皮\n水兵\n服役 2 年\n已婚
+txt_manual_bio_sailor_08	比利·米克西\n水兵\n服役 3 年\n未婚
+txt_manual_bio_sailor_09	图利·贝尔根\n水兵\n服役 3 年\n未婚
+txt_manual_bio_sailor_10	波特·法尔格\n水兵\n服役 2 年\n已婚，一个孩子
+txt_manual_bio_sailor_11	吉兹·布兹曼\n水兵\n服役 1 年\n未婚
+txt_ava_rank_captain	舰长
+txt_ava_rank_xo	执行官
+txt_ava_rank_swo	值更军官
+txt_ava_rank_chief_po	政治委员
+txt_ava_rank_cto	鱼雷军官
+txt_ava_rank_radioman	报务员
+txt_ava_rank_helmsman	舵手
+txt_ava_rank_cengineer	轮机长
+txt_ava_rank_shipmedic	舰医
+txt_ava_rank_shipcook	厨子
+txt_ava_rank_quartermaster	军需官
+txt_ava_rank_enginemechanic	轮机兵
+txt_ava_rank_sailor	水兵
+txt_ava_rank_player	密码军官
+txt_dia_rank_player	中尉
+txt_dia_rank_seaman	水兵
+txt_ava_name_captain	库尔特·魏斯曼
+txt_ava_name_xo	马丁·哈特维希
+txt_ava_name_swo	埃琳·凯尔德
+txt_ava_name_chief_po	索尔·布伦纳
+txt_ava_name_cto	弗里迪·阿尔伯斯
+txt_ava_name_radioman	哈文·佩克尔
+txt_ava_name_helmsman	马蒂斯·耶尔
+txt_ava_name_cengineer	莱夫特·布兹曼
+txt_ava_name_shipmedic	埃米尔·瓦罗
+txt_ava_name_shipcook	尼科·哈尔文
+txt_ava_name_quartermaster	伊文·德拉斯克
+txt_ava_name_enginemechanic	托马斯·雷恩
+txt_ava_name_sailor	水兵
+txt_ava_name_player	玩家
+txt_ava_name_sailor_01	约里·梅滕
+txt_ava_name_sailor_02	戈尔·阿尔廷
+txt_ava_name_sailor_03	波勒·布津
+txt_ava_name_sailor_04	科比·勒尔特
+txt_ava_name_sailor_05	马基·塔舍尔
+txt_ava_name_sailor_06	德斯尼·维尔默
+txt_ava_name_sailor_07	科汉·帕维
+txt_ava_name_sailor_08	比利·米克森
+txt_ava_name_sailor_09	图利·贝尔根
+txt_ava_name_sailor_10	波特·法尔根
+txt_ava_name_sailor_11	吉兹·布兹曼
+txt_ava_service_captain	服役 21 年
+txt_ava_service_xo	服役 16 年
+txt_ava_service_swo	服役 6 年
+txt_ava_service_chief_po	服役 11 年
+txt_ava_service_cto	服役 8 年
+txt_ava_service_radioman	服役 6 年
+txt_ava_service_helmsman	服役 10 年
+txt_ava_service_cengineer	服役 7 年
+txt_ava_service_shipmedic	服役 9 年
+txt_ava_service_shipcook	服役 12 年
+txt_ava_service_quartermaster	服役 13 年
+txt_ava_service_enginemechanic	服役 5 年
+txt_ava_service_sailor_01	服役 2 年
+txt_ava_service_sailor_02	服役 4 年
+txt_ava_service_sailor_03	服役 1 年
+txt_ava_service_sailor_04	服役 5 年
+txt_ava_service_sailor_05	服役 3 年
+txt_ava_service_sailor_06	服役 1 年
+txt_ava_service_sailor_07	服役 2 年
+txt_ava_service_sailor_08	服役 3 年
+txt_ava_service_sailor_09	服役 3 年
+txt_ava_service_sailor_10	服役 2 年
+txt_ava_service_sailor_11	服役 1 年
+txt_ava_family_captain	已婚，两个孩子
+txt_ava_family_xo	未婚
+txt_ava_family_swo	已婚
+txt_ava_family_chief_po	离过两次婚
+txt_ava_family_cto	已婚，两个孩子
+txt_ava_family_radioman	未婚
+txt_ava_family_helmsman	未婚
+txt_ava_family_cengineer	已婚，五个孩子
+txt_ava_family_shipmedic	丧偶
+txt_ava_family_shipcook	已婚，一个孩子
+txt_ava_family_quartermaster	已婚，三个孩子
+txt_ava_family_enginemechanic	未婚
+txt_ava_family_sailor_01	未婚
+txt_ava_family_sailor_02	未婚
+txt_ava_family_sailor_03	已婚
+txt_ava_family_sailor_04	未婚

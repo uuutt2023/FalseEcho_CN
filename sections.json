@@ -1,0 +1,58 @@
+[
+ {
+  "name": ".text",
+  "vsize": 47647800,
+  "vaddr": 4096,
+  "rawsize": 47648256,
+  "rawptr": 1024
+ },
+ {
+  "name": ".rdata",
+  "vsize": 9198578,
+  "vaddr": 47652864,
+  "rawsize": 9198592,
+  "rawptr": 47649280
+ },
+ {
+  "name": ".data",
+  "vsize": 5562436,
+  "vaddr": 56852480,
+  "rawsize": 1514496,
+  "rawptr": 56847872
+ },
+ {
+  "name": ".pdata",
+  "vsize": 1508100,
+  "vaddr": 62418944,
+  "rawsize": 1508352,
+  "rawptr": 58362368
+ },
+ {
+  "name": "_RDATA",
+  "vsize": 244,
+  "vaddr": 63930368,
+  "rawsize": 512,
+  "rawptr": 59870720
+ },
+ {
+  "name": ".fptable",
+  "vsize": 256,
+  "vaddr": 63934464,
+  "rawsize": 512,
+  "rawptr": 59871232
+ },
+ {
+  "name": ".rsrc",
+  "vsize": 185104,
+  "vaddr": 63938560,
+  "rawsize": 185344,
+  "rawptr": 59871744
+ },
+ {
+  "name": ".reloc",
+  "vsize": 235704,
+  "vaddr": 64126976,
+  "rawsize": 236032,
+  "rawptr": 60057088
+ }
+]

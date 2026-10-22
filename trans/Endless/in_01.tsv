@@ -1,0 +1,285 @@
+day_99_txt_msg_ver_01	CONVOY SIGHTING EAST OF MARKER NINE HOLD REPORT UNTIL CONFIRMED
+day_99_txt_msg_ver_02	ENGINE CREW REQUESTS AUTHORITY TO OPEN RESERVE FUEL LOCKER
+day_99_txt_msg_ver_03	MEDICAL BAY REPORTS TWO CASES OF SMOKE EXPOSURE AFTER DRILL
+day_99_txt_msg_ver_04	CONTROL ROOM ASKS FOR DEPTH CHANGE CLEARANCE BEFORE SECOND BELL
+day_99_txt_msg_ver_05	POLITICAL OFFICE REQUESTS CREW STATEMENT COPIES FOR ARCHIVE
+day_99_txt_dia_xo_orders_01	New Daily Orders have just arrived. Things have changed.
+day_99_txt_dia_xo_orders_02	Yes sir, I am standing by!
+day_99_txt_dia_xo_orders_03	Stay sharp, remember your training, there are plenty of messages to process. Be vigilant, enemy spy is still at large.
+day_99_txt_dia_sailor_intro_01	Could you handle this before the watch changes?
+day_99_txt_dia_sailor_intro_02	I need your desk for this one.
+day_99_txt_dia_officer_intro_01	Process this and keep the line clear.
+day_99_txt_dia_officer_intro_02	Handle this now. Report only when complete.
+day_99_txt_dia_ver_intro_02	Another verification. Watch sender ID and date.
+day_99_txt_dia_enc_intro_01	Encode this and return the output slip.
+day_99_txt_dia_player_ack_01	Received.
+day_99_txt_dia_player_ack_02	I will handle it.
+day_99_txt_dia_result_success_01	Thank you.
+day_99_txt_dia_result_success_02	Much obliged.
+day_99_txt_dia_result_failure_01	Thank you.
+day_99_txt_dia_result_failure_02	Understood.
+day_99_txt_dia_ver_crew_intro_01	Could you check this verification for me?
+day_99_txt_dia_ver_crew_intro_02	I need this checked before the next watch.
+day_99_txt_dia_ver_sailor_intro_01	Could you check this verification for me?
+day_99_txt_dia_ver_sailor_intro_02	I need this checked before the next watch.
+day_99_txt_dia_ver_officer_intro_01	I need you to verify this message. It's about the supplies that we are missing so be very careful.
+day_99_txt_dia_ver_officer_intro_02	Check sender and date. Do not hold the line.
+day_99_txt_dia_enc_crew_intro_01	Could you encode this for relay?
+day_99_txt_dia_enc_crew_intro_02	Please process this when ready.
+day_99_txt_dia_enc_sailor_intro_01	Could you encode this for relay?
+day_99_txt_dia_enc_sailor_intro_02	Please process this when ready.
+day_99_txt_dia_enc_officer_intro_01	You are doing alright? We need this message encoded, for sending. Don't bother with the text, just make sure that you make no mistakes like the last time you did it.
+day_99_txt_dia_enc_officer_intro_02	Process this signal. I need it back promptly.
+day_99_txt_dia_result_crew_01	Thank you. I will take it on.
+day_99_txt_dia_result_crew_02	Appreciated. I will move it along.
+day_99_txt_dia_result_officer_01	That will do. Back to station.
+day_99_txt_dia_result_officer_02	I have it. Keep your desk ready.
+day_99_txt_dia_sailor_exit_true_01	Thank you. I will take it on.
+day_99_txt_dia_sailor_exit_true_02	Appreciated. I will move it along.
+day_99_txt_dia_sailor_exit_false_01	I will explain the delay at my station.
+day_99_txt_dia_sailor_exit_false_02	Understood. I will get this corrected.
+day_99_txt_dia_officer_exit_true_01	That will do, so the message is authentic? Good. Someone will regret it, though.
+day_99_txt_dia_officer_exit_true_02	Thank you, I hope you didn't make a mistake.
+day_99_txt_dia_officer_exit_false_01	Fake message, are you sure? Makes no sense.
+day_99_txt_dia_officer_exit_false_02	What, a fake one? How? Dammit, I knew I shouldn't trust him.
+txt_ui_endless_shift_title	Shift That Never Ends
+day_99_txt_mono_shift_start	Another long shift.
+day_99_txt_news_public_01	Our navy has commenced another large-scale operation to disrupt enemy convoy routes. First results are very encouraging. Several large transport ships were sunk in the first week. Our submarine pack tactics are proving to be a devastating new blow to the crippled Western Kingdom war effort.\r\n\r\nAir Force Command reports 27 enemy bombers shot down in one day of operations. Our fighter pilots were protecting western Oppressia when a large group of enemy bombers tried to slip through and attack our armaments factories. They will think twice before attempting anything similar again.
+day_99_txt_news_confidential_01	Last night the enemy air force launched a heavy raid against our shipyards and submarine pen facilities. Several heavy bombers were shot down, but the damage inflicted on us is severe.\r\n\r\nOne radar station is lost, one sub pen completely blocked, one cruiser damaged, several transport and resupply ships sunk, dozens killed, more than 150 wounded.\r\n\r\nState Security has uncovered an entire spy ring operating on the coast. They were reporting our submarine movements and transport schedules. One Oppressian Army soldier was also arrested and executed for treason.
+day_99_txt_news_bulletin_01	NEWS FROM THE FRONT:\r\n\r\nOur navy has commenced another large-scale operation to disrupt enemy convoy routes. First results are very encouraging. Several large transport ships were sunk in the first week. Our submarine pack tactics are proving to be a devastating new blow to the crippled Western Kingdom war effort.\r\n\r\nAir Force Command reports 27 enemy bombers shot down in one day of operations. Our fighter pilots were protecting western Oppressia when a large group of enemy bombers tried to slip through and attack our armaments factories. They will think twice before attempting anything similar again.\r\n\r\nLast night the enemy air force launched a heavy raid against our shipyards and submarine pen facilities. Several heavy bombers were shot down, but the damage inflicted on us is severe.\r\n\r\nOne radar station is lost, one sub pen completely blocked, one cruiser damaged, several transport and resupply ships sunk, dozens killed, more than 150 wounded.\r\n\r\nState Security has uncovered an entire spy ring operating on the coast. They were reporting our submarine movements and transport schedules. One Oppressian Army soldier was also arrested and executed for treason.
+day_99_txt_news_public_02	A huge rally was held in Gerlin yesterday to celebrate the inevitable fall of the Republic of Sovetia. More than 35,000 Sovetian soldiers were captured in another encirclement successfully closed a few days ago.\r\n\r\nThe Western Kingdom is on the brink of collapse. Our submarines are inflicting devastating losses. Seven ships were sunk in the past week by Sub 124 and Sub 442. A huge amount of material went to the bottom of the ocean. So-called sonar has proved far less dangerous than advertised, and our submarine captains are doing excellent work against that threat.
+day_99_txt_news_confidential_02	Fuel rationing will tighten by the next patrol cycle. We are having difficulties refining oil after Sovetian air raids in Lomnia. It would appear that this raid took off from the Formea Peninsula. Army Command will take measures to prevent future use of those airfields by our enemy.\r\n\r\nWe lost Sub 442 yesterday. It went completely silent after reporting enemy escort destroyers in pursuit. Our attack on the enemy convoy ended badly, with the entire submarine pack scattering to avoid depth charges.
+day_99_txt_news_bulletin_02	NEWS FROM THE FRONT:\r\n\r\nA huge rally was held in Gerlin yesterday to celebrate the inevitable fall of the Republic of Sovetia. More than 35,000 Sovetian soldiers were captured in another encirclement successfully closed a few days ago.\r\n\r\nThe Western Kingdom is on the brink of collapse. Our submarines are inflicting devastating losses. Seven ships were sunk in the past week by Sub 124 and Sub 442. A huge amount of material went to the bottom of the ocean. So-called sonar has proved far less dangerous than advertised, and our submarine captains are doing excellent work against that threat.\r\n\r\nFuel rationing will tighten by the next patrol cycle. We are having difficulties refining oil after Sovetian air raids in Lomnia. It would appear that this raid took off from the Formea Peninsula. Army Command will take measures to prevent future use of those airfields by our enemy.\r\n\r\nWe lost Sub 442 yesterday. It went completely silent after reporting enemy escort destroyers in pursuit. Our attack on the enemy convoy ended badly, with the entire submarine pack scattering to avoid depth charges.
+day_99_txt_news_public_03	Oppressian Army Command reports a major breakthrough on the Sovetian front. Enemy lines near Karsk have cracked under the weight of our artillery and armored columns. Thousands of prisoners are already moving west under guard.\r\n\r\nThe Ministry of Supply confirms that winter uniforms, fuel drums and spare machine parts are reaching forward bases ahead of schedule. Every soldier at the front will see proof that the homeland stands behind him.
+day_99_txt_news_confidential_03	The Karsk breakthrough is real, but the advance is slowing. Roads are flooded, railheads are overloaded, and several armored formations are reporting serious fuel shortages. Prisoner numbers are being rounded upward for public release.\r\n\r\nForward depots are short of winter gear. Command has ordered local requisitioning in occupied villages, which is already causing unrest and partisan activity behind the lines.
+day_99_txt_news_bulletin_03	NEWS FROM THE FRONT:\r\n\r\nOppressian Army Command reports a major breakthrough on the Sovetian front. Enemy lines near Karsk have cracked under the weight of our artillery and armored columns. Thousands of prisoners are already moving west under guard.\r\n\r\nThe Ministry of Supply confirms that winter uniforms, fuel drums and spare machine parts are reaching forward bases ahead of schedule. Every soldier at the front will see proof that the homeland stands behind him.\r\n\r\nThe Karsk breakthrough is real, but the advance is slowing. Roads are flooded, railheads are overloaded, and several armored formations are reporting serious fuel shortages. Prisoner numbers are being rounded upward for public release.\r\n\r\nForward depots are short of winter gear. Command has ordered local requisitioning in occupied villages, which is already causing unrest and partisan activity behind the lines.
+day_99_txt_news_public_04	Coastal Command praises our harbor defense crews for their discipline during another enemy night raid. Searchlights caught the attackers before they reached the inner docks, and anti-aircraft batteries forced them to scatter their bombs into open water.\r\n\r\nRepair crews worked through the night and several damaged piers are already back in service. The enemy can strike at stone and steel, but Oppressian hands will raise them again before dawn.
+day_99_txt_news_confidential_04	The raid hit Dock Three harder than reported. Two cranes are down, one fuel barge burned out, and submarine loading schedules will be delayed for at least three days. Harbor lights are to remain reduced until replacement lenses arrive.\r\n\r\nAnti-aircraft ammunition stocks are lower than expected. Shore batteries have been ordered to conserve fire unless targets are confirmed by both sound posts and searchlight crews.
+day_99_txt_news_bulletin_04	NEWS FROM THE FRONT:\r\n\r\nCoastal Command praises our harbor defense crews for their discipline during another enemy night raid. Searchlights caught the attackers before they reached the inner docks, and anti-aircraft batteries forced them to scatter their bombs into open water.\r\n\r\nRepair crews worked through the night and several damaged piers are already back in service. The enemy can strike at stone and steel, but Oppressian hands will raise them again before dawn.\r\n\r\nThe raid hit Dock Three harder than reported. Two cranes are down, one fuel barge burned out, and submarine loading schedules will be delayed for at least three days. Harbor lights are to remain reduced until replacement lenses arrive.\r\n\r\nAnti-aircraft ammunition stocks are lower than expected. Shore batteries have been ordered to conserve fire unless targets are confirmed by both sound posts and searchlight crews.
+day_99_txt_news_public_05	Naval Headquarters announces another successful patrol in the western approaches. Our submarines found an enemy convoy under heavy fog and struck before the escorts could form a proper screen. Four merchant ships and one tanker were sent below.\r\n\r\nThe courage of our crews proves once again that Oppressia rules beneath the waves. The Western Kingdom may hide behind fog and radio tricks, but our captains will find them.
+day_99_txt_news_confidential_05	The western approaches action cost us more than the bulletin admits. Sub 118 returned with battery damage and three wounded. Sub 203 missed rendezvous after reporting flooding in the forward compartment.\r\n\r\nEnemy escorts reacted faster than expected and their new search pattern is effective in fog. All patrol boats are to change course tables immediately and report any unexplained signal delay.
+day_99_txt_news_bulletin_05	NEWS FROM THE FRONT:\r\n\r\nNaval Headquarters announces another successful patrol in the western approaches. Our submarines found an enemy convoy under heavy fog and struck before the escorts could form a proper screen. Four merchant ships and one tanker were sent below.\r\n\r\nThe courage of our crews proves once again that Oppressia rules beneath the waves. The Western Kingdom may hide behind fog and radio tricks, but our captains will find them.\r\n\r\nThe western approaches action cost us more than the bulletin admits. Sub 118 returned with battery damage and three wounded. Sub 203 missed rendezvous after reporting flooding in the forward compartment.\r\n\r\nEnemy escorts reacted faster than expected and their new search pattern is effective in fog. All patrol boats are to change course tables immediately and report any unexplained signal delay.
+day_99_txt_dia_endless_dialogue_officers_npc_daily_orders_entry_01_01	Understood?
+day_99_txt_dia_endless_dialogue_officers_npc_daily_orders_entry_01_02	Sir, yes sir!
+day_99_txt_dia_endless_xo_daily_orders_02	I've got your Daily Orders, read them carefully!
+day_99_txt_dia_endless_xo_daily_orders_03	Be vigilant! Enemy spy is still roaming our sub. Pay close attention to details.
+day_99_txt_dia_endless_xo_daily_orders_04	Sir yes sir! I will give my best!
+day_99_txt_dia_endless_xo_daily_orders_01_01	We have a lot to do. I don't want you catching flies, be very careful with the messages!
+day_99_txt_dia_endless_xo_daily_orders_01_02	Yes sir, maximum precaution and focus, sir!
+day_99_txt_dia_endless_xo_daily_orders_01_03	You'd better...
+day_99_txt_dia_endless_xo_daily_orders_01	Wake up, no time for sleep!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_01_01	There's a lot of communication coming through, I bet most of which is from our enemies.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_true_01	Oh, so it IS authentic. Nice!
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_01_01	Yes sir, I will be accurate. We do need those supplies for sure.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_02_01	Hello, how's Obscura working these days? Still giving you troubles?
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_02_01	No sir, everything in order!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_02_02	Good. Check this verification message, I need clear confirmation whether the message we've received is true or false.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_03_02	Well, you may ask but I may not tell you. Here is the message.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_03_01	Are you busy? I need this message verified, as fast as possible. I have a gut feeling something is not right.
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_03_01	May I ask what the message was about?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_04_01	Don't get up. I have a small task for you, are you busy?
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_04_01	Not at all, sir. Tell me, how may I help you?
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_04_02	Take this verification message. Something is fishy and I don't have that machine room stench in mind.
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_04_03	I will verify it at once, sir!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_05_01	I was told that you are mostly catching sleep around here.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_05_02	I see that was exaggerated a bit. But still, I need you fully awake for this one.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_05_03	Something is strange with this message. Check it out and let me know if it's real or fake.
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_05_01	Sir, right away sir!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_06_01	Working on something important at the moment?
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_06_01	No sir, I am free, how may I help you?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_06_02	We received a message some time ago. Some dipstick forgot to authenticate it. I need you to process this verification message, just to be sure.
+day_99_txt_dia_endless_dialogue_officers_player_verification_entry_06_02	
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_06_03	Yes sir. It wasn't me sir, I can assure you.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_04_02	Something is fishy with this message. I don't have in mind that stench from engine room. Something ominous with this particular message, verify it and give it back to me.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_entry_06_04	Doesn't matter now, just check this message and let me know if it's true or false.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_false_01	Quite sure sir, double checked.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_false_02	Alright, thank you.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_false_01	Whom, sir?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_false_02	Doesn't matter, carry on with your duties.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_false_01	Fake message, sir!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_false_02	Fake? I knew it. Damn Western Kingdom. And their radio transmitters.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_04_false_01	What, a fake one?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_04_false_02	I'm afraid so.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_04_false_03	If you've made a mistake you should be afraid, it's important!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_false_01	Well, I expected it to be fake, but I was not sure.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_false_02	I hope it's not something important.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_false_03	It is, at least partially. Nothing to do with you, so no worries.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_06_false_01	Fake message sir, doesn't check out properly.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_06_false_02	Fake...it figures. OK, off I go then. Carry on with your tasks.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_true_02	Sir?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_true_03	Sir what?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_true_04	You were saying...
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_01_true_05	I am glad that it's authentic. Otherwise I'd be in a hell lot of trouble.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_true_01	Are you absolutely sure that this is authentic?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_true_02	Yes sir, I've paid attention and made sure everything is in order.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_true_03	No chance that you've made a mistake?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_true_04	Well sir, there is always a chance, do you want me to double check it?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_02_true_05	No need, I have other priorities. Thank you.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_true_01	True?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_true_02	Yes sir!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_true_03	Someone in counter-intelligence is slacking, that's for sure. That's your branch by the way.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_true_04	Well I don't know sir, I don't have the actual message at hand.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_03_true_05	And you won't. Anyway, thank you, off I go.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_04_true_01	I'm not glad that this is true. Not one little bit.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_04_true_02	May I ask sir, why?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_04_true_03	No you may not. Carry on with your duties.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_true_01	What, TRUE ECHO?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_true_02	Yes sir.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_true_03	Are you sure?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_true_04	Yes sir, positive!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_05_true_05	Dammit.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_06_true_01	What, true!?
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_06_true_02	I have to find the slacker who didn't report this message in time. Now it's too late to take action.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_06_true_03	Dammit!
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_07_true_01	Oh, authentic message? Excellent.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_07_true_02	Yes sir, glad to be of help.
+day_99_txt_dia_endless_dialogue_officers_npc_verification_exit_07_true_03	Thank you, carry on with your duties.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_01_01	I have a message that needs to be encoded. Don't bother with the text, just hurry up.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_01_02	Sir, right on it!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_02_01	Sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_02_02	At ease. I have a message that needs to go through your Obscura. Encode it and give me back the encoded output paper.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_02_03	Yes sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_03_01	That machine of yours still working?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_03_02	Which one, sir?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_03_03	Obscura. I've heard you had some power issues.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_03_04	Not sure where you heard that from, sir. It's working perfectly.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_03_05	Great, encode this message for me, will you?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_04_01	Don't stand up. I have a message for encoding.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_04_02	Is everything in order sir? All prerequisites?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_04_03	You tell me. Here is the message.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_05_01	Sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_05_02	At ease. I have a message for encoding. Don't bother with the text, just make sure you don't make mistakes like last time.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_05_03	Last time, sir?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_entry_05_04	Hurry up, I haven't got all day.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_false_01	What do you mean FALSE ECHO?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_false_02	Sir, I need proper authorization as per regulations written in...
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_false_03	Don't YOU teach me what regulations are! I am a senior officer here!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_02_false_01	What now? Something missing?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_02_false_02	Yes sir, I am under strict regulations as per Daily Orders.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_02_false_03	That's a pity. But understandable.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_false_01	Why is this FALSE ECHO? Now I cannot send this forth.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_false_02	Sir, I have to follow strict guidelines by the Daily Orders.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_false_03	Alright, continue with your duties.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_false_01	False? I am missing something?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_false_02	Yes sir, stamps need to be in order, please correct the message and come back with them.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_false_03	OK, we need to stick to the rules!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_true_01	Excellent, you are not as slow as they say.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_true_02	Doing my best, sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_true_03	Let's hope you didn't make too many mistakes.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_01_true_04	If you did I will make sure you lose one Oppark for each wrong letter!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_02_true_01	Good, see, that wasn't that hard. I will take this to Harvey.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_02_true_02	Thank you!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_02_true_03	You are welcome, sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_true_01	You are sure that there are no mistakes?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_true_02	I did my best sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_true_03	Doing one's best is not the same as doing what is required. In Oppressia we take only the best and squash the rest.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_03_true_04	Ehr, yes sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_true_01	All done?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_true_02	Yes sir, message is encoded, your input plain text message is archived securely.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_true_03	Good. Be faster next time, will you?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_04_true_04	Yes sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_05_true_01	Well that's one thing off my shoulders. I will take this to our radioman.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_05_true_02	Yes sir!
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_06_true_01	Here you go sir, message processed according to rules and regulations.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_06_true_02	Good, no mistakes made?
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_06_true_03	None that I am aware of, no.
+day_99_txt_dia_endless_dialogue_officers_npc_encode_exit_06_true_04	Great. Carry on then.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_01_01	At ease. I have here a message that needs decoding.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_01_02	I will get right on it, sir!
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_01_03	Hurry up, I have other things to attend to.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_02_01	Our famous encryption officer. Don't bother standing up, I have a task for you.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_02_02	Yes sir!
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_02_03	Decode this message. I don't know what it is, let's see if Obscura sheds some light.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_03_01	Decoding task for you, shake up a bit.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_03_02	Yes sir?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_03_03	Here is the message, make sure you decode with care.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_04_01	This fell out of some stacks of paper, I need it properly decoded, it could be important.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_04_02	Sir, under Oppressian Navy Regulations, section 5C I am required to report behavior which...
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_04_03	Just decode the damn message. If anyone is going to report anything, that'd be me. You: turn that Obscura and do your job.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_05_01	I have an encrypted message that requires decoding.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_05_02	Yes sir, give it to me, I will see what I can do.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_06_01	Take this message and see what it is all about. I need it decoded fast.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_06_02	Yes sir, I will get right on it.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_07_01	Sir!
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_07_02	At ease. Take this message and decode it.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_07_03	It dropped behind Panel 5, probably during that last depth charge attack.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_entry_07_04	Yes sir, I will do it right away.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_01_false_01	How do you mean a false message?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_01_false_02	It did not meet the criteria, sir!
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_01_false_03	Dammit.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_false_01	Fake message?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_false_02	Yes sir.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_false_03	What am I supposed to do with it then... dammit. I hate when this happens.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_false_01	What, a fake message?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_false_02	Yes sir.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_false_03	How?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_false_04	It did not meet the criteria set by Naval regulations in order to comply with...
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_false_05	Forget it, I have other things to do.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_04_false_01	What, a fake one?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_04_false_02	Yes sir, I double checked everything.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_04_false_03	Ah great, dammit.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_01_true_01	All in order?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_01_true_02	Yes sir, here is the decoded message.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_01_true_03	Thank you. Keep up the good work.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_true_01	Sir, your message is here.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_true_02	Good. Is everything in order?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_true_03	Yes sir, all good.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_02_true_04	Great, carry on with your duties.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_true_01	Oh, you have decoded it?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_true_02	Yes sir, here it is.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_true_03	What do you think of the message contents?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_true_04	I haven't paid attention sir, that's not for me to analyze nor decide.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_03_true_05	Very good, very very good. Carry on.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_04_true_01	All in order?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_04_true_02	Yes sir, message decoded well and processed according to standing orders.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_04_true_03	Good, keep up the good work.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_05_true_01	Ready already? You didn't trade accuracy for speed, I hope.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_05_true_02	No sir, I did it according to the standing rules.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_05_true_03	Good, I'd hate to come back and have different kind of talk.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_06_true_01	Is it ready?
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_06_true_02	Yes sir, message decoded.
+day_99_txt_dia_endless_dialogue_officers_npc_decode_exit_06_true_03	OK. I will take some time to analyze it properly before making our next move. Carry on.
+day_99_txt_dia_endless_xo_daily_orders_01_04	
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_01_01	Sir, I have a verification message to be checked.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_01_02	At ease. Who is it from?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_01_03	I don't know sir, I've been ordered to bring it to you for authentification.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_01_04	Alright, give me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_02_01	Sir, new verification message, can you please check it?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_02_02	Yes, of course, give it to me.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_03_01	Sir, reporting a verification message that must be authenticated, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_03_02	OK, what's the message about?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_03_03	I don't know sir. I am just a messenger, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_04_01	Nice and cozy cabin, sir. Sorry for bothering you but there is a message that requires authentication.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_04_02	It's not that cozy as you might think. What kind of message?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_04_03	A verification slip sir. Officers at the bridge ordered me to bring it to you.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_04_04	Alright, give it to me.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_05_01	New verification message, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_05_02	Take it easy sailor. Where is the message?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_05_03	It's here, sir, sorry for bursting like that.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_06_01	Sir, may I come in?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_06_02	Yes, come in, do you need some help?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_06_03	Yes sir, there is a message, a verification slip, that must be authenticated. Can you do it now sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_06_04	I can, I am free. Any specifics?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_06_05	No sir. XO sent me and told me to verify it before the main message is taken into consideration. Something to do with patrol course change.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_06_06	OK, give me the message and I will see what I can do.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_07_01	Permission to speak sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_07_02	Granted. Go ahead.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_07_03	I have a verification message that needs your attention. Can you please check its authenticity?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_07_04	If it's an official one, yeah, sure, give it to me.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_false_01	Fake message, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_false_02	Yes, FALSE ECHO.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_false_03	I'm in trouble now.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_false_04	Thank you sir, permission to leave?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_false_05	Go ahead.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_02_false_01	Sir, message is fake?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_02_false_02	Afraid so. It did not fulfill the requirements.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_02_false_03	OK sir, I will take it to my superior officer. Thank you.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_false_01	A fake message sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_false_02	Yes, not authentic.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_false_03	Thank you sir, I will take it back to XO.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_false_01	There you go sailor, it's a fake communication.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_false_02	Roger that sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_false_03	...
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_false_04	Permission to leave sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_false_05	Permission granted, go ahead.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_01	Sir, am I right to say that this is a fake message?

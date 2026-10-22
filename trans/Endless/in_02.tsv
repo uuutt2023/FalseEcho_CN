@@ -1,0 +1,285 @@
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_02	Yes, FALSE ECHO.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_03	Excellent! I mean, ehr, alright. Thank you sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_04	Hold on for a moment... what did you mean by excellent? Do you know what the main message is all about?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_05	No sir, just overheard something.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_06	What?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_false_07	According to Naval rules and regulations, gossip is considered a felony under criminal code, section 2B.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_true_01	True message, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_true_02	Yes it is. TRUE ECHO.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_01_true_03	Thank you sir, I will be on my way then.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_02_true_01	Much appreciated sir, I see that the message is authentic.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_02_true_02	It is. Do you know what the main message is all about?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_02_true_03	No clue sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_01	Sir, it's ready?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_02	Yes, one nice true message, authentic.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_03	Are you sure?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_04	What do you mean?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_05	Maybe you've missed some detail or...
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_06	STASEC does not miss details.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_03_true_07	Sorry sir, no disrespect meant.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_true_01	Oh, authentic message. Captain will be pleased.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_true_02	Say what?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_true_03	I meant it's good that it's authentic, sir! One less chance for the damn Western Kingdom to infiltrate our communications! Sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_04_true_04	Dismissed.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_true_01	There you go sailor, TRUE ECHO.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_true_02	Thank you sir. I am free to go?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_05_true_03	Yes, go ahead.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_01_01	Good day! I have a message that requires encoding, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_01_02	Very well, hand it over.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_01_03	There you go sir. Hope everything is in order.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_01_04	We shall see sailor, we shall see.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_02_01	Yes?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_02_02	I have a...a message that requires that thing you do with your device so that the enemy cannot read it.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_02_03	You mean to encode it?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_02_04	Yes, exactly. Sorry sir, I am a bit shaky after that depth charge attack.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_02_05	No worries, give me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_03_01	Sir, message for encoding, here!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_03_02	Easy now, keep your voice down a bit. Let me see.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_04_01	Permission to speak sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_04_02	Granted.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_04_03	I have here a message that requires encoding procedure.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_04_04	OK, give it to me, I need to check whether it's properly formatted.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_05_01	Yes?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_05_02	Message for encoding, sir! Written in plain text, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_05_03	It would be rather hard to encode an encoded message, don't you think?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_entry_05_04	I...I don't know, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_false_01	Sir, message is refused?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_false_02	As you can see. Not following the official guidelines.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_false_03	Which guidelines would that be sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_false_05	I don't know sir, I am just a messenger. Permission to leave.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_false_06	Granted.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_false_01	Sir, message is rejected?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_false_02	Yes, rejected.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_false_03	But I don't understand why?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_false_04	And I don't have time to explain every little detail. Anything else?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_false_05	No sir, thank you sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_03_false_01	Rejected message, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_03_false_02	Rejected. Next time ensure that all authorization prerequisites are fulfilled!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_03_false_03	Yes sir, will do sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_false_01	There you go, I had to reject it.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_false_02	Why, something is not right?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_false_03	Yes, some things are missing. You need to bring back properly formatted message.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_false_04	Understood sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_05_false_01	Sir, message is not authentic?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_05_false_02	Message clearly violates procedures. Thus it cannot go any further.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_05_false_03	Yes sir, thank you for your time.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_true_01	All done sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_true_02	Yes, take the message, you are free to go.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_01_true_03	Thank you sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_true_01	Thank you sir, much appreciated. And the original message?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_true_02	Archived, as per regulations.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_true_03	So I don't get it back?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_02_true_04	Unless you are Naval or STASEC officer, nope.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_03_true_01	Sir, it's done?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_03_true_02	Yes, go ahead, take it to the radioman.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_03_true_03	Yes sir, thank you sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_true_01	There you go. All done.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_true_02	Thank you...woah, I don't understand a thing now, how can they read it on shore?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_true_03	A bit complicated to explain.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_true_04	They will be able to read it, right?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_04_true_05	Of course. Go ahead, you are dismissed.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_05_true_01	Sir, I can take the message now?
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_05_true_02	Yes, approved for transmission.
+day_99_txt_dia_endless_dialogue_sailors_npc_encode_exit_05_true_03	Thank you sir, you are the best. Oppressia to Victory!
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_01_01	Sir, I have a message for decoding.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_01_02	OK, give it to me.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_02_01	Sir, I've been instructed to bring this message for decoding.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_02_02	Let me see it. Who is it from? I don't see verification paper.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_02_03	XO sent it, says that it's verified.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_02_04	OK then, I will decode it in a minute.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_03_01	We have a message to decode, sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_03_02	Where from?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_03_03	Ehr, radioman gave it to me, Political Officer told him to do so and ordered me to bring it to you.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_03_04	No, I meant who is sending it...never mind, give me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_04_01	Sir, are you free at the moment?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_04_02	Yes I am, what is it?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_04_03	We have this message written in garbled text. They told me I need to bring it to you to decipher it.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_04_04	Sure, give me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_05_01	Yes?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_05_02	Hello...I mean, hello sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_05_03	Hello.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_05_04	...
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_05_05	Ah yes, there is a message that requires decoding, here it is sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_06_01	Come in...at ease. How may I help you?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_06_02	Sir, I have this message, SWO gave it to me. It requires proper decoding.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_entry_06_03	OK, let me see it.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_01_false_01	Rejected, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_01_false_02	Yes. That's false communication right there.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_01_false_03	OK sir, I will take it back. Thank you.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_false_01	This is a false message, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_false_02	No, message is real - but definitely not for us.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_false_03	So enemy intercept?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_false_04	Likely. But we caught it on time.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_false_01	Here, take this. It's a FALSE ECHO.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_false_02	I don't understand, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_false_03	I am declaring this to be a false message, not to be taken into consideration.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_false_04	Sir yes sir!
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_false_01	I am afraid that XO will be really, really mad with me.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_false_02	Why?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_false_03	He is the one who gave me this message for decoding.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_false_04	It's not your fault that the message is not authentic.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_05_false_01	False message sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_05_false_02	Yes, rejected. Take it, you are dismissed.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_06_false_01	Here, I am rejecting this message as being fake.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_06_false_02	Do I need to sign something sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_06_false_03	No need. Take this message back, you are free to go.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_06_false_04	Sir, aye-aye sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_01_true_01	All done sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_01_true_02	Yes, message is properly decoded.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_01_true_03	Thank you sir, I will bring it back where it belongs.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_true_01	Here, message is decoded. I will keep the original.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_true_02	Yes sir. Permission to ask why you are keeping the original, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_02_true_03	Standard procedure. I am checking the messages but some day someone will check my checks.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_true_01	Message went through well, all clean, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_true_02	Yes, fortunately everything is in order.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_03_true_03	Splendid, thank you sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_true_01	Oh sir, that machine of yours is truly amazing.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_true_02	Which one, the Obscura?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_true_03	Yes, all the buttons and lamps. When you have time I'd love if you could show me how it looks inside.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_04_true_04	We shall see, you need proper security clearance for that. Take the message, you are free to go.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_05_true_01	All clear sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_05_true_02	Yes, take the message, everything worked out well.
+day_99_txt_dia_endless_dialogue_sailors_npc_decode_exit_05_true_03	OK sir, I hope no one gets mad over this.
+day_99_txt_dia_endless_xo_daily_orders_02_01	Sir, reporting for duty!
+day_99_txt_dia_endless_xo_daily_orders_02_02	At ease. I brought you our new Daily Orders. Read carefully and try to avoid mistakes. Every letter you misspell or forget could mean the difference between life and death.
+day_99_txt_dia_endless_shift_start_player_bubble_02	Let's see what this day brings.
+day_99_txt_dia_endless_shift_start_player_bubble_03	I don't even know if it's morning or midnight.
+day_99_txt_dia_endless_shift_start_player_bubble_04	At least there are no listening devices on a sub.
+day_99_txt_dia_endless_shift_start_player_bubble_05	That headache will last a while.
+day_99_txt_dia_endless_shift_start_player_bubble_06	I can sense XO in front of my cabin.
+day_99_txt_dia_endless_shift_start_player_bubble_01	This will be a long day.
+day_99_txt_dia_endless_xo_daily_orders_03_01	Rise and shine. I've got your Daily Orders. Did you hear that noise a couple of hours ago?
+day_99_txt_dia_endless_xo_daily_orders_03_02	No sir, what happened?
+day_99_txt_dia_endless_xo_daily_orders_03_03	Some trawler passed above us. Poor bastards, they scared us good.
+endless_xo_daily_orders_04_01	New orders, stand up!
+endless_xo_daily_orders_04_02	Read th Daily Orders with care and comply with the rules.
+endless_xo_daily_orders_04_03	Yes sir!
+endless_xo_daily_orders_04_04	(God knows you don't)
+endless_xo_daily_orders_04_05	You said something?
+endless_xo_daily_orders_04_06	No Sir!
+endless_xo_daily_orders_05_01	New orders, sir?
+endless_xo_daily_orders_05_02	Yes, I've got everything in your Daily Orders. Read, follow. Understood?
+endless_xo_daily_orders_05_03	Yes sir!
+endless_xo_daily_orders_06_01	Morning, lieutenant. Ready for this shift?
+endless_xo_daily_orders_06_02	Yes sir, like Oppressian howitzer!
+endless_xo_daily_orders_06_03	That's first time I hear something like that. Alright, here are the Daily Orders.
+endless_dialogue_sailors_npc_verification_entry_08_01	Verification message, sir!
+endless_dialogue_sailors_npc_verification_entry_08_02	Authentication?
+endless_dialogue_sailors_npc_verification_entry_08_03	Yes sir!
+endless_dialogue_sailors_npc_verification_entry_08_04	OK, give me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_09_01	Sir, a verification slip from the bridge. They told me not to fold it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_09_02	And yet you folded it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_09_03	Only where it was already folded, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_09_04	Put it here. I'll check the writing, not the creases.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_10_01	Verification message for you, sir. My hands are clean this time.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_10_02	This time?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_10_03	Engine grease, sir. Nothing that concerns State Security.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_10_04	Let me decide what concerns State Security. The paper, please.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_11_01	Sir, I was on my way to the mess when they handed me this.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_11_02	Your meal can wait while I authenticate it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_11_03	It has been waiting since the last watch, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_11_04	Then another minute won't surprise it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_12_01	New verification slip, sir. Straight from the radio watch.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_12_02	Set it down where I can read it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_13_01	Sir, they said you would know what to do with this.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_13_02	Who said that?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_13_03	Everyone I asked on the way here, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_13_04	For once, everyone was right. Hand it over.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_14_01	Permission to deliver a verification message, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_14_02	Granted. You don't need to stand quite so straight.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_14_03	The passage is narrow, sir. It's mostly the door holding me up.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_14_04	Then give me the slip before the door dismisses you.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_15_01	Sir, the bridge wants this checked before anyone acts on it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_15_02	That's the correct order. Let me have it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_16_01	Sir, I've brought the verification slip. Nobody has read it aloud.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_16_02	Was somebody planning to?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_16_03	One of the men thought it would settle an argument, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_16_04	It will settle nothing until I've checked it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_17_01	A message for authentication, sir. Sorry about the wet sleeve.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_17_02	Keep it away from the desk.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_17_03	Of course, sir. The paper is dry.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_17_04	Good. That is the part I need.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_18_01	Sir, is this where I bring verification messages?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_18_02	Yes. Have you been carrying that around looking for me?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_18_03	Only one circuit of the boat, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_18_04	We have very few places to hide. Put it here.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_19_01	Verification slip, sir. The officer on watch is waiting for your decision.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_19_02	Then let's give him one. Pass it over.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_20_01	Sir, I have been instructed to wait here while you check this.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_20_02	You may wait without blocking the passage.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_20_03	I was trying to keep out of everyone's way, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_20_04	Start by keeping out of mine. The slip goes on the desk.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_21_01	Sir, this came down with instructions to hurry.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_21_02	Did the instructions say to skip authentication?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_21_03	No sir. Just to hurry.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_21_04	Then we understand each other. Hand me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_22_01	Sir, may I ask something before I hand this over?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_22_02	Briefly.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_22_03	If the message is wrong, is the messenger responsible?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_22_04	For delivering it intact, yes. For its authenticity, that's why you're here.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_22_05	That is a relief, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_22_06	Keep it intact until it reaches the desk.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_23_01	New verification message, sir. I came as soon as I was called.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_23_02	All right, sailor. Let's see it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_24_01	Sir, I nearly took this back to the radio room by mistake.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_24_02	What stopped you?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_24_03	The chief asked why I was coming back with the same paper, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_24_04	A useful question. Put it here before he has to ask again.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_25_01	Sir, the men are asking whether this means a change of orders.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_25_02	The men can wait until we know the message is authentic.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_25_03	That is what I told them, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_25_04	Then you have already delivered one correct message today.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_26_01	Verification slip, sir. No additional instructions were given to me.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_26_02	The slip will do. Thank you.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_27_01	Sir, I've brought something for your stamp.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_27_02	You've brought something for examination. The stamp comes after.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_27_03	Yes sir. Poor choice of words.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_27_04	An easy thing to correct. Give me the paper.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_28_01	Sir, I hope this isn't a bad time. New verification message.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_28_02	Messages rarely ask about the time. Let me have it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_28_03	Should I wait outside, sir?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_28_04	Stay where you can hear me.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_29_01	Sir, I was told to deliver this personally and return with your answer.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_29_02	Who is expecting you back?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_29_03	The officer on the bridge, sir. He was quite clear about returning.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_29_04	Then don't wander off while I check it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_30_01	Verification message awaiting authentication, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_30_02	Bring it closer. I can't authenticate your announcement.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_31_01	Sir, I kept this away from the galley, as instructed.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_31_02	Were there instructions about the galley?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_31_03	Standing instructions, sir. After the soup incident.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_31_04	We don't need another incident. On the desk, please.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_32_01	Sir, the XO sent me with a verification slip.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_32_02	Any message from the XO himself?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_32_03	Only that I should remember to call you sir, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_32_04	You seem to have remembered. The slip?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_33_01	Sir, this needs checking. I haven't tried to make sense of it myself.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_33_02	Good. Delivering it is enough for now.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_34_01	Verification message, sir. I was going to knock, but the watch is changing.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_34_02	The door doesn't become less solid when the watch changes.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_34_03	No sir. May I come in?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_34_04	You may. Give me the message.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_35_01	Sir, I've been carrying this inside my jacket to protect it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_35_02	Protect it from what?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_35_03	Mostly the elbows in the passage, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_35_04	A reasonable precaution. Let's have it before another elbow arrives.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_36_01	Sir, I have a verification slip and a request.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_36_02	The slip first. What is the request?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_36_03	That I be allowed to finish my watch after this, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_36_04	Have you given me a reason to prevent that?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_36_05	No sir. I would prefer to keep it that way.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_36_06	Then hand over the slip and let me work.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_37_01	Sir, this is the message I was sent to deliver. The instructions were very specific.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_37_02	About the message or about me?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_37_03	About not losing the message, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_37_04	A good beginning. Put it where neither of us can lose it.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_38_01	Another verification message for your attention, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_38_02	There's room on the desk. Bring it in.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_38_03	I thought you might be tired of seeing us, sir.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_entry_38_04	I get more concerned when the messages stop coming.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_06_true_01	TRUE ECHO, sir? Then I can take it back?
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_06_true_02	Yes. Return it to the officer who sent you.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_06_true_03	He'll be glad to see me arrive with an answer for once.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_06_true_04	Make sure he sees the answer before he hears your commentary.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_07_true_01	Authentic, sir. That's a weight off my mind.
+day_99_txt_dia_endless_dialogue_sailors_npc_verification_exit_07_true_02	You looked as though you were carrying more than paper.

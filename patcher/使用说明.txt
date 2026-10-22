@@ -1,0 +1,63 @@
+﻿《虚妄回响 / False Echo》简体中文补丁 —— 安装说明
+================================================
+
+一、适用版本
+   False Echo Demo（Steam，AppID 5072320），当前补丁对应 v0.9.8.6（Steam 最新版）。
+   安装前会自动校验原版文件指纹；若你的游戏版本与补丁不匹配会给出提示。
+
+二、安装步骤
+   1) 先退出游戏（若正在运行，补丁会拒绝执行并提示）。
+   2) 把本文件夹【整个】复制到游戏根目录，即同时含有
+      "False Echo.exe" 和 "data.win" 的那个文件夹
+      （一般在 ...\Steam\steamapps\common\False Echo Demo\）。
+   3) 双击 "Install-CN.cmd"。
+   4) 看到“简体中文补丁安装完成！”后即可，之后从 Steam 正常启动游戏。
+
+三、卸载 / 还原原版
+   双击 "Restore-CN.cmd"，会把 backup_original\ 里的原版文件拷回游戏目录，
+   游戏即恢复成英文原版。
+
+四、它到底做了什么
+   1) False Echo.exe
+      这款游戏（GameMaker YYC 编译版）把界面文字与剧情文本以
+      base64+zlib 烘焙在 exe 内部的自定义字符串池里。补丁按原版英文串的
+      位置逐条替换为中文：
+        · 中文更短时在原位改写（只允许改写原串本身的字节，绝不越界碰到
+          紧邻的下一条字符串）；
+        · 中文更长时把新串搬进 exe 新增的 .cndata 节，并把 .text 里对应的
+          RIP 相对引用重新指向新位置。
+      共处理 9 个烘焙文本块 + 435 条界面/剧情字面量。
+   2) data.win
+      游戏的资源包。补丁用随包附带的 UndertaleModLib（自带运行时，无需玩家
+      安装任何环境）打开【玩家本机的】原版 data.win：
+        · 替换其中 9 个烘焙文本块为中文；
+        · 新增 3 张中文字形图集贴图，并让 12 个字体的字形表指向新图集，
+          行高按中文墨迹高度抬升（避免多行文字互相压叠）；
+        · 写回一个新的 data.win。
+      游戏中所有中文均由这些新字形绘制。
+
+五、备份
+   首次安装时会把原版 False Echo.exe 与 data.win 复制到本文件夹下的
+   backup_original\ 目录，可随时用 Restore-CN.cmd 一键还原。
+
+六、注意事项
+   · 需要 Windows 10/11 自带的 Windows PowerShell 5.1 即可，无需其它环境。
+   · Steam 更新游戏后，请先 Restore-CN.cmd 还原，再重新安装补丁。
+   · 补丁只修改本机文件，不联网、不改动 Steam 客户端、不上传任何数据。
+   · 补丁自带工具链约占 130 MB，这是为了让玩家无需安装 .NET / Node 等
+     运行环境；解压后整文件夹放进游戏根目录即可。
+
+七、目录说明
+   Install-CN.cmd            双击安装汉化
+   Restore-CN.cmd            双击还原原版
+   Patch-FalseEcho-CN.ps1    主脚本（可用 -Action install|restore|verify）
+   payload\                  汉化数据：文本块、字面量表、字体图集、补丁计划
+   tools\utmt\               内置的 data.win 重建工具（自带 .NET 运行时）
+   backup_original\          安装时自动生成的原版备份
+
+八、命令行用法（可选）
+   powershell -NoProfile -ExecutionPolicy Bypass ^
+       -File ".\Patch-FalseEcho-CN.ps1" -Action install
+   可选参数：
+       -GameDir   指定游戏根目录（默认自动探测脚本所在目录）
+       -BackupDir 指定备份目录（默认 .\backup_original）
